@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: PT Careers
-description: Behind Every Journey - SG Public Transport
+title: Behind Every Journey
+description: SG Public Transport
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
