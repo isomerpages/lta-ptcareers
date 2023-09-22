@@ -2,11 +2,11 @@ title: Behind Every Journey
 url: https://staging.d3474y91fsvb7c.amplifyapp.com
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#f4b622"
+  primary-color: "#000000"
   secondary-color: "#273b8a"
   media-colors:
     - title: media-color-one
-      color: "#000000"
+      color: "#f4b622"
     - title: media-color-two
       color: "#ffffff"
     - title: media-color-three
@@ -14,7 +14,7 @@ colors:
     - title: media-color-four
       color: "#9af0f8"
     - title: media-color-five
-      color: "#00838f"
+      color: "#363636"
 description: SG Public Transport
 permalink: none
 baseurl: ""
