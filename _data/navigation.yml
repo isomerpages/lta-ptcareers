@@ -1,8 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
+  - title: Our Purpose
     url: /contact-us/
-  - title: Example Page
+  - title: Why Join Us
     url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Careers and Programmes
+    url: /permalink
+  - title: Hear Our Journeys
+    url: /permalink
+  - title: Highlights
+    url: /permalink
