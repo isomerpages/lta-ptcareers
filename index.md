@@ -13,19 +13,24 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: why join us
+          description: Start a meaningful journey
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Hear our journeys
+          description: Rewarding career awaits
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: highlights
+          description: Check out our inspiring videos
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Professionals
+      subtitle: CAREER and Programmes
+      id: infopic
+      description: Whether your passion lies in operations, engineering or customer
+        service, explore opportunities available at our public transport
+        operators
+      button: Learn more
+      url: https://google.com
+      image: /images/bus engineering.png
+      alt: Image alt text
 ---
