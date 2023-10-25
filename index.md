@@ -4,12 +4,12 @@ title: Behind Every Journey
 description: SG Public Transport
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Welcome to Public Transport Career Website!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      title: Behind Every Journey
+      subtitle: Learn more about how a career in public transport can take you places
+      background: /images/pt career combined images.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
