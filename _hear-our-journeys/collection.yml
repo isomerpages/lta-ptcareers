@@ -2,6 +2,7 @@ collections:
   hear-our-journeys:
     output: true
     order:
+      - Our Stories/The Quick Thinker Behind Every Journey.md
       - Our Stories/Powering The Future.md
       - Our Stories/.keep
       - Our Videos/Behind Every Journey TVC.md
