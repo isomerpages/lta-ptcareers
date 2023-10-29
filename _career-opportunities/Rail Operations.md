@@ -3,6 +3,11 @@ title: Rail Operations
 permalink: /career-opportunities/rail-operations/
 description: ""
 ---
-Engineering Train
 
-The Engineering Train functional track involves the deployment of specialised railway vehicles to perform measurement and alignment of rail tracks, profiling of rails, inspection of viaducts, cleaning of tunnels, and the maintenance of specialised railway vehicles.
+![](/images/rail-operations1.jpg)
+### Rail Operations Control Management
+The Rail Operations Control Management functional track involves regulating daily train services, coordinating real-time rail operations, managing and responding to incidents, and providing train service information to commuters.
+
+![](/images/station-and-train-operations-447x271-1.jpg)
+### Station and Train Operations
+The Station and Train Operations functional track involves the daily management and efficient operation of train stations and train services. Those include train driving, passenger service, operating station equipment, crowd control, and ensuring the safety of commuters.
