@@ -25,3 +25,11 @@ A skilled workforce is essential in delivering a quality and reliable public tra
 #### Professional Development
 
 As the public transport sector continues to advance and harness the latest technologies in operations and maintenance, it offers many opportunities to develop your passion and grow your career. You can expect to develop deep technical and management expertise by acquiring these skills in demand: **Data Analytics, Predictive Maintenance, Bus & Rail Asset Management, Cyber Security and Bus & Rail Operations Security**.
+
+## Keep moving forward with your career.
+
+Whether you are looking for vertical or lateral progression, a career in the public transport provides a rewarding career progression framework. Take a look at the possible career pathways for these 4 tracks (i) Rail Engineering, (ii) Rail Operations, (iii) Bus Operations, and (iv) Bus Fleet Engineering, which encompass 87 job roles.
+
+For more information on the Skills Framework for Public Transport, click [here](https://www.skillsfuture.gov.sg/skills-framework/public-transport).
+
+![](/images/skillsframework_pt_career%20map_final-01.jpg)
