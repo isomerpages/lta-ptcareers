@@ -1,6 +1,0 @@
-collections:
-  career-opportunities:
-    output: true
-    order:
-      - Rail Operations.md
-      - Rail Engineering.md
