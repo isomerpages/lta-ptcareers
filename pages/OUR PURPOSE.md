@@ -39,4 +39,11 @@ The public transport operators – Go-Ahead Singapore, SBS Transit Ltd, SMRT Cor
 
 |![https://www.lta.gov.sg/](/images/lta-logo.png) | ![](/images/go-aheadsingapore.png) | ![](/images/sbstransit.png) |
 | -------- | -------- | -------- |
-|![](/images/smrt-logo.png) |![](/images/towertransit.png) | 
+|![](/images/220px-smrt_logo.png)| ![](/images/towertransit.png) |
+
+
+
+|![](/images/220px-smrt_logo.png)| ![](/images/towertransit.png) |
+| -------- | -------- | 
+| Text     | Text     |
+
