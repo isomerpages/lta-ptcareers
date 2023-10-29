@@ -29,3 +29,17 @@ To better serve commuters in the future, we are transforming our urban landscape
 
 | ![](/images/industry-outlook4.jpg)More integrated transport hubs nationwide for seamless connections between bus and train | ![](/images/vr-tech.jpg)Enhanced rail reliability with emerging technologies adoption | ![](/images/continual-upskilling-447x223-1.jpg) Professionalise workforce through continual upskilling and reskilling to stay abreast of technology changes |
 | -------- | -------- | -------- |
+
+## Who We Are
+The Land Transport Authority plans, designs and builds Singapore’s land transport infrastructure and systems. We harness technology to strengthen our rail and bus infrastructure and develop exciting options for future land transport.
+
+The public transport operators – Go-Ahead Singapore, SBS Transit Ltd, SMRT Corporation Ltd and Tower Transit Singapore – run and maintain the bus and rail networks under their respective operation.
+
+
+
+|![https://www.lta.gov.sg/](/images/lta-logo.png) | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+
