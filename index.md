@@ -45,7 +45,7 @@ sections:
           description: ""
       url: /why-join-us/
   - infopic:
-      subtitle: Kishen Kumar, Manager
+      subtitle: SMRT Trains
       id: infopic
       description: “The most fulfilling part of my job is knowing that I have the
         ability to influence the future of our Rail Transport System.”
@@ -53,17 +53,20 @@ sections:
       alt: Image alt text
       image: /images/894-x-503-our-stories-power.jpg
       url: google.com
+      title: Kishen Kumar, Manager, Power Plans
   - infopic:
-      subtitle: Koh Seng Kee, Service
+      subtitle: SBS Transit Ltd
       id: infopic
-      description: SEE TEXT “This role is challenging and requires quick-thinking
-        skills to troubleshoot any unplanned road situations.
+      description: “This role is challenging and requires quick-thinking skills to
+        troubleshoot any unplanned road situations. Every day is a new and
+        enriching experience for me.”
       button: View full story
       url: google.com
       image: /images/894-x-503-our-stories-svc-sbst.jpg
       alt: Image alt text
+      title: Koh Seng Kee, Executive Service Controller
   - infopic:
-      subtitle: Ho Weipeng, Assistant Manager
+      subtitle: Go-Ahead Singapore
       id: infopic
       description: SEE TEXT “Our public bus industry has developed rapidly and I look
         forward to the many initiatives planned for our people and
@@ -71,6 +74,40 @@ sections:
       button: view full story
       url: google.com
       image: /images/894-x-503-our-stories-svc-gas_d.jpg
+      alt: Image alt text
+      title: Ho Weipeng, Service Performance Assistant Manager
+  - infopic:
+      title: Joey Neo Wan Qi, Senior Engineer, Permanent Way
+      subtitle: "SBS Transit Ltd "
+      id: infopic
+      description: “If you enjoy the challenge of working in a highly-dynamic
+        engineering environment, a job in the rail industry is one career to
+        consider.”
+      button: view full story
+      url: google.com
+      image: /images/894-x-503-our-stories-pway.jpg
+      alt: Image alt text
+  - infopic:
+      title: Gary Goh, Engineering Supervisor
+      subtitle: Tower Transit Singapore
+      id: infopic
+      description: “My job is never boring as I get to handle different tasks daily. I
+        am proud that I play a major role in ensuring that our buses are safe
+        for our passengers.”
+      button: view full story
+      url: google.com
+      image: /images/894-x-503-our-stories-bus-engr.jpg
+      alt: Image alt text
+  - infopic:
+      title: Nur Azimah Binti Mohd Ramlee, Station Manager
+      subtitle: SMRT Trains
+      id: infopic
+      description: “Every day is different and the same – we meet people from diverse
+        array of cultures and we stay dedicated in serving our commuters,
+        everyday.”
+      button: view full story
+      url: google.com
+      image: /images/894-x-503-our-stories-station-mgr.jpg
       alt: Image alt text
   - textcards:
       title: Highlights
