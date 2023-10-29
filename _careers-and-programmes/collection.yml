@@ -1,5 +1,4 @@
 collections:
   careers-and-programmes:
     output: true
-    order:
-      - Professionals/.keep
+    order: []
