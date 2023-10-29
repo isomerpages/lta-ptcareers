@@ -87,6 +87,5 @@ sections:
           url: ""
   - resources:
       title: Highlights
-      subtitle: Add a preview and link to your Resource Room
       id: resources
 ---
