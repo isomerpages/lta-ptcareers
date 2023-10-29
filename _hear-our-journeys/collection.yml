@@ -2,4 +2,4 @@ collections:
   hear-our-journeys:
     output: true
     order:
-      - Our Videos/.keep
+      - Our Journey/.keep
