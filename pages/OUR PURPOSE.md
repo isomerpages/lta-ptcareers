@@ -3,7 +3,6 @@ title: OUR PURPOSE
 permalink: /our-purpose/
 description: Why careers in public transport is meaningful
 ---
-
 ![](/images/our-purpose-banner-1920x710-1.jpg)
 
 ## About the Public Transport Industry
@@ -25,9 +24,8 @@ To better serve commuters in the future, we are transforming our urban landscape
 
 
 
-| ![](/images/expansion-of-rail-network-447x223-1.jpg)Expansion of rail network and connecting more places by trains |![](/images/clear-energy-447x223-1.jpg)100% cleaner energy bus fleet by 2040 | ![](/images/barrier-free-journey-447x223-1.jpg)Barrier free journeys for easier travel |
+| ![](/images/expansion-of-rail-network-447x223-1.jpg)Expansion of rail network and connecting more places by trains | ![](/images/clear-energy-447x223-1.jpg)100% cleaner energy bus fleet by 2040 | ![](/images/barrier-free-journey-447x223-1.jpg)Barrier free journeys for easier travel |
 | -------- | -------- | -------- |
 
-| ![](/images/industry-outlook4.jpg)More integrated transport hubs nationwide for seamless connections between bus and train | ![](/images/vr-tech.jpg)Enhanced rail reliability with emerging technologies adoption | ![](/images/continual-upskilling-447x223-1.jpg)Professionalise workforce through continual upskilling and reskilling to stay abreast of technology changes |
+| ![](/images/industry-outlook4.jpg)More integrated transport hubs nationwide for seamless connections between bus and train | ![](/images/vr-tech.jpg)Enhanced rail reliability with emerging technologies adoption | ![](/images/continual-upskilling-447x223-1.jpg) Professionalise workforce through continual upskilling and reskilling to stay abreast of technology changes |
 | -------- | -------- | -------- |
-
