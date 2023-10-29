@@ -2,4 +2,5 @@ collections:
   careers-and-programmes:
     output: true
     order:
+      - Mid Career Switchers.md
       - Professionals.md
