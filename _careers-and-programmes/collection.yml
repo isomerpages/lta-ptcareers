@@ -1,4 +1,5 @@
 collections:
   careers-and-programmes:
     output: true
-    order: []
+    order:
+      - Professionals.md
