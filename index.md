@@ -12,17 +12,17 @@ sections:
       subtitle: Learn more about how a career in public transport can take you places
       background: /images/lta career in public transport industry_homepage banner.png
       button: Find your journey
-      url: /contact-us/
+      url: /careers-and-programmes/professionals/
       key_highlights:
         - title: Professionals
-          description: Start a meaningful journey
-          url: https://google.com
+          description: ""
+          url: /careers-and-programmes/professionals/
         - title: mid-career switchers
-          description: Rewarding career awaits
-          url: https://gmail.com
+          description: ""
+          url: /careers-and-programmes/mid-career-switchers/
         - title: students
-          description: Check out our inspiring videos
-          url: /privacy/
+          description: fdsfds
+          url: /careers-and-programmes/students/
   - infobar:
       title: About Public Transport Industry
       description: SEE TEXT! Public transport is the core of Singapore’s Land
