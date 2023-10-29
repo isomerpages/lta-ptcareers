@@ -25,9 +25,9 @@ sections:
           url: /privacy/
   - infobar:
       title: About Public Transport Industry
-      description: "SEE TEXT! Public transport is the core of Singapore’s Land
+      description: SEE TEXT! Public transport is the core of Singapore’s Land
         Transport Industry and a key enabler for Singapore’s economy. Every day,
-        almost "
+        almost
       button: learn more
       url: /faq/
   - infocols:
@@ -85,4 +85,8 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
+  - resources:
+      title: Highlights
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
