@@ -15,14 +15,22 @@ sections:
       url: /careers-and-programmes/professionals/
       key_highlights:
         - title: Professionals
-          description: ""
+          description: Start a meaningful journey
           url: /careers-and-programmes/professionals/
         - title: mid-career switchers
-          description: ""
+          description: Rewarding career awaits
           url: /careers-and-programmes/mid-career-switchers/
         - title: students
-          description: fdsfds
+          description: Your journey starts here
           url: /careers-and-programmes/students/
+  - infopic:
+      title: About Public Transport Industry
+      id: infopic
+      description: Every day, almost 5.5 million commuter journeys are taken on our
+        public buses and trains for work, school and leisure.
+      button: Learn More
+      url: google.com
+      alt: Image alt text
   - infobar:
       title: About Public Transport Industry
       description: SEE TEXT! Public transport is the core of Singapore’s Land
