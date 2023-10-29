@@ -29,15 +29,9 @@ sections:
       description: Every day, almost 5.5 million commuter journeys are taken on our
         public buses and trains for work, school and leisure.
       button: Learn More
-      url: google.com
+      url: /our-purpose/
       alt: Image alt text
-  - infobar:
-      title: About Public Transport Industry
-      description: SEE TEXT! Public transport is the core of Singapore’s Land
-        Transport Industry and a key enabler for Singapore’s economy. Every day,
-        almost
-      button: learn more
-      url: /faq/
+      image: /images/aboutpt-desktop1.jpg
   - infocols:
       title: Why Join Us
       id: infocols
@@ -49,8 +43,7 @@ sections:
           description: ""
         - title: Develop your career with amazing opportunities
           description: ""
-      subtitle: SEE TEXT Fulfilling career.
-      url: google.com
+      url: /why-join-us/
   - infopic:
       subtitle: Kishen Kumar, Manager
       id: infopic
