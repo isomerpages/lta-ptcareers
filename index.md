@@ -3,7 +3,7 @@ layout: homepage
 title: Public Transport Careers
 description: Public transport is a key enabler of Singapore's economy. Learn
   more about the industry, the roles and the career opportunities available.
-image: /images/isomer-logo.svg
+image: /images/behind every journey.png
 permalink: /
 notification: Welcome to Public Transport Career Website!
 sections:
