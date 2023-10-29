@@ -1,7 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Public Transport Careers
+description: Public transport is a key enabler of Singapore's economy. Learn
+  more about the industry, the roles and the career opportunities available.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Welcome to Public Transport Career Website!
