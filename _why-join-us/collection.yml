@@ -2,6 +2,7 @@ collections:
   why-join-us:
     output: true
     order:
+      - Careers Opportunities/Rail Operations.md
       - Careers Opportunities/Rail Engineering.md
       - Careers Opportunities/.keep
       - Why join us.md
