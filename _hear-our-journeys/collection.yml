@@ -2,6 +2,7 @@ collections:
   hear-our-journeys:
     output: true
     order:
+      - Our Stories/From Childhood Fascination To Everyday Discovery.md
       - Our Stories/The Round The Clock Optimist.md
       - Our Stories/Keeping Our Buses Moving Smoothly.md
       - Our Stories/The Quick Thinker Behind Every Journey.md
