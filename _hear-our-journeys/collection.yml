@@ -2,6 +2,7 @@ collections:
   hear-our-journeys:
     output: true
     order:
+      - Our Stories/Motivated By The World And Every Single Smile.md
       - Our Stories/From Childhood Fascination To Everyday Discovery.md
       - Our Stories/The Round The Clock Optimist.md
       - Our Stories/Keeping Our Buses Moving Smoothly.md
