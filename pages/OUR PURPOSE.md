@@ -35,15 +35,11 @@ The Land Transport Authority plans, designs and builds Singapore’s land transp
 
 The public transport operators – Go-Ahead Singapore, SBS Transit Ltd, SMRT Corporation Ltd and Tower Transit Singapore – run and maintain the bus and rail networks under their respective operation.
 
+![](/images/who%20we%20are.png)
 
-
-|![https://www.lta.gov.sg/](/images/lta-logo.png) | ![](/images/go-aheadsingapore.png) | ![](/images/sbstransit.png) |
-| -------- | -------- | -------- |
-|![](/images/220px-smrt_logo.png)| ![](/images/towertransit.png) |
-
-
-
-|![](/images/220px-smrt_logo.png)| ![](/images/towertransit.png) |
-| -------- | -------- | 
-| Text     | Text     |
-
+#### Visit our websites:
+* [Land Transport Authority](https://www.lta.gov.sg/content/ltagov/en.html) 
+* [Go-Ahead Singapore](https://go-aheadsingapore.com/)
+* [SBS Transit](https://www.sbstransit.com.sg/)
+* [SMRT Corporation](https://www.smrt.com.sg/)
+* [Tower Transit](https://towertransit.sg/)
