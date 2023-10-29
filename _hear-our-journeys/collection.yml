@@ -2,6 +2,7 @@ collections:
   hear-our-journeys:
     output: true
     order:
+      - Behind Every Journey Videos/Behind Every Journey TVC.md
       - Behind Every Journey Videos/Behind the scenes at IMDC.md
       - Behind Every Journey Videos/What does a Rolling Stock Engineer do?.md
       - Behind Every Journey Videos/.keep
