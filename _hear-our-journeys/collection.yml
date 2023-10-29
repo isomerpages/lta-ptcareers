@@ -1,4 +1,5 @@
 collections:
   hear-our-journeys:
     output: true
-    order: []
+    order:
+      - Our Videos/.keep
