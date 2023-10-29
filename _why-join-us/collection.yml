@@ -2,4 +2,5 @@ collections:
   why-join-us:
     output: true
     order:
+      - Careers Opportunities/.keep
       - Why join us.md
