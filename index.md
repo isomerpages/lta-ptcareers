@@ -56,7 +56,7 @@ sections:
       title: Kishen Kumar, Manager, Power Plans
   - infopic:
       title: Joey Neo Wan Qi, Senior Engineer, Permanent Way
-      subtitle: "SBS Transit Ltd "
+      subtitle: SBS Transit Ltd
       id: infopic
       description: “If you enjoy the challenge of working in a highly-dynamic
         engineering environment, a job in the rail industry is one career to
