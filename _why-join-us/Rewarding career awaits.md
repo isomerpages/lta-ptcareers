@@ -2,7 +2,7 @@
 title: Rewarding career awaits
 permalink: /why-join-us/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 ![Why join us](/images/why-join-us-banner-desktop1.jpg)
 ## Start your meaningful and fulfilling career journey with us
