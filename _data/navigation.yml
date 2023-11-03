@@ -1,8 +1,6 @@
 logo: /images/behind every journey.png
 links:
-  - title: Our Purpose
-    url: /our-purpose
-  - title: Example Page
-    url: /example-page/
   - title: career and programmes
     collection: careers-and-programmes
+  - title: Hear our journeys
+    collection: hear-our-journeys
