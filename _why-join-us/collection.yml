@@ -2,7 +2,7 @@ collections:
   why-join-us:
     output: true
     order:
-      - WHY JOIN US.md
+      - Rewarding career awaits.md
       - Diverse Career Opportunities/.keep
       - Diverse Career Opportunities/Rail Engineering.md
       - Diverse Career Opportunities/Rail Operations.md
