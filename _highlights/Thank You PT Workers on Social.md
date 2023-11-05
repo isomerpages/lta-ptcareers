@@ -14,11 +14,11 @@ variant: markdown
       width: 50%;
       padding: 10px;">
     <img style="width:100%" alt="Image 1" src="/images/ptwa-social_proudtobept.png">
-    <p>Proud to be a public transport worker</p>
+    <p><a href="https://www.facebook.com/WeKeepYourWorldMoving/posts/186734610301279">Proud to be a public transport worker</a></p>
   </div>
   <div style="float: left;
       width: 50%;
       padding: 10px;">
     <img style="width:100%" alt="Image 2" src="/images/416x416-thank-you-from-minister-iswaran.jpg">
-    <p>Thank You from Minister Iswaran</p>
+    <p><a href="https://www.facebook.com/SIswaran/posts/311641814112214">Thank You from Minister Iswaran</a></p>
   </div>
