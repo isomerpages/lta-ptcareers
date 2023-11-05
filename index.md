@@ -52,7 +52,7 @@ sections:
       button: View Full Story
       alt: Image alt text
       image: /images/894-x-503-our-stories-power.jpg
-      url: /hear-our-journeys/our-stories/powering-the-future/
+      url: https://ptcareers.gov.sg/hear-our-journeys/our-stories/powering-the-future/
       title: Kishen Kumar, Manager, Power Plans
   - infopic:
       title: Joey Neo Wan Qi, Senior Engineer, Permanent Way
@@ -62,7 +62,7 @@ sections:
         engineering environment, a job in the rail industry is one career to
         consider.”
       button: view full story
-      url: google.com
+      url: https://ptcareers.gov.sg/hear-our-journeys/our-stories/the-quick-thinker-behind-every-journey/
       image: /images/894-x-503-our-stories-pway.jpg
       alt: Image alt text
   - infopic:
