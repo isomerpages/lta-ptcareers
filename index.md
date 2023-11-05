@@ -52,7 +52,7 @@ sections:
       button: View Full Story
       alt: Image alt text
       image: /images/894-x-503-our-stories-power.jpg
-      url: google.com
+      url: /hear-our-journeys/our-stories/powering-the-future/
       title: Kishen Kumar, Manager, Power Plans
   - infopic:
       title: Joey Neo Wan Qi, Senior Engineer, Permanent Way
