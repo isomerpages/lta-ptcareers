@@ -31,7 +31,7 @@ sections:
       button: Learn More
       url: /our-purpose/
       alt: Image alt text
-      image: /images/aboutpt-desktop1.jpg
+      image: /images/aboutpt-desktop2.jpg
   - infocols:
       title: Why Join Us
       id: infocols
