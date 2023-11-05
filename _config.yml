@@ -2,13 +2,13 @@ title: Public Transport Careers
 url: https://ptcareers.gov.sg
 favicon: /images/ptcareer_icon.png
 colors:
-  primary-color: "#000000"
-  secondary-color: "#f8e71c"
+  primary-color: "#417505"
+  secondary-color: "#bd10e0"
   media-colors:
     - title: media-color-one
-      color: "#f8e71c"
+      color: "#d0021b"
     - title: media-color-two
-      color: "#f8e71c"
+      color: "#ffc230"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
