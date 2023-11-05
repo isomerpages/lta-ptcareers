@@ -23,14 +23,6 @@ Today, our rail and public bus sectors employ more than 22,000 people to support
 
 To better serve commuters in the future, we are transforming our urban landscape through greener travel, greater connectivity and leveraging emerging technologies to deliver smarter and better services.
 
-
-
-| ![](/images/expansion-of-rail-network-447x223-1.jpg)Expansion of rail network and connecting more places by trains | ![](/images/clear-energy-447x223-1.jpg)100% cleaner energy bus fleet by 2040 | ![](/images/barrier-free-journey-447x223-1.jpg)Barrier free journeys for easier travel |
-| -------- | -------- | -------- |
-
-| ![](/images/industry-outlook4.jpg)More integrated transport hubs nationwide for seamless connections between bus and train | ![](/images/vr-tech.jpg)Enhanced rail reliability with emerging technologies adoption | ![](/images/continual-upskilling-447x223-1.jpg) Professionalise workforce through continual upskilling and reskilling to stay abreast of technology changes |
-| -------- | -------- | -------- |
-
 ![](/images/industry_outlook_1.jpg)
 
 ![](/images/industry_outlook_2.jpg)
