@@ -116,19 +116,19 @@ sections:
         - title: Behind The Scenes at IMDC
           description: ""
           linktext: Learn more
-          url: ""
+          url: /hear-our-journeys/our-videos/behind-the-scenes-at-imdc/
         - title: What does a Rolling Stock Engineer do?
           description: ""
           linktext: Learn more
-          url: ""
+          url: /hear-our-journeys/our-videos/what-does-a-rolling-stock-engineer-do/
         - title: PT Workers Appreciation Day
           description: ""
           linktext: Learn more
-          url: ""
+          url: /highlights/public-transport-workers-appreciation-day/
         - title: "#ThankYouPTWorkers"
           description: ""
           linktext: Learn more
-          url: ""
+          url: /highlights/thank-you-pt-workers-on-social/
   - resources:
       title: Highlights
       id: resources
