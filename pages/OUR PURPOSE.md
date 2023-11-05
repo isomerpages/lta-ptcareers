@@ -2,7 +2,7 @@
 title: OUR PURPOSE
 permalink: /our-purpose/
 description: Why careers in public transport is meaningful
-variant: tiptap
+variant: markdown
 ---
 ![](/images/our-purpose-banner-1920x710-1.jpg)
 
