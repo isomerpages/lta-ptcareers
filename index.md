@@ -104,7 +104,7 @@ sections:
       description: “I look forward to the many initiatives planned for our people and
         infrastructure, especially the new innovative clean energy buses.”
       button: view full story
-      url: google.com
+      url: https://ptcareers.gov.sg/hear-our-journeys/our-stories/keeping-our-buses-moving-smoothly/
       image: /images/894-x-503-our-stories-svc-gas_d.jpg
       alt: Image alt text
       title: Ho Weipeng, Service Performance Assistant Manager
