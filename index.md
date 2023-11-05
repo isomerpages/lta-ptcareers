@@ -62,7 +62,7 @@ sections:
         engineering environment, a job in the rail industry is one career to
         consider.”
       button: view full story
-      url: https://ptcareers.gov.sg/hear-our-journeys/our-stories/the-round-the-clock-optimist/
+      url: /hear-our-journeys/our-stories/the-round-the-clock-optimist/
       image: /images/894-x-503-our-stories-pway.jpg
       alt: Image alt text
   - infopic:
@@ -73,7 +73,7 @@ sections:
         am proud that I play a major role in ensuring that our buses are safe
         for our passengers.”
       button: view full story
-      url: google.com
+      url: /hear-our-journeys/our-stories/from-childhood-fascination-to-everyday-discovery/
       image: /images/894-x-503-our-stories-bus-engr.jpg
       alt: Image alt text
   - infopic:
@@ -84,7 +84,7 @@ sections:
         array of cultures and we stay dedicated in serving our commuters,
         everyday.”
       button: view full story
-      url: google.com
+      url: /hear-our-journeys/our-stories/motivated-by-the-world-and-every-single-smile/
       image: /images/894-x-503-our-stories-station-mgr.jpg
       alt: Image alt text
   - infopic:
@@ -94,7 +94,7 @@ sections:
         troubleshoot any unplanned road situations. Every day is a new and
         enriching experience for me.”
       button: View full story
-      url: https://ptcareers.gov.sg/hear-our-journeys/our-stories/the-quick-thinker-behind-every-journey/
+      url: /hear-our-journeys/our-storie/the-quick-thinker-behind-every-journey/
       image: /images/894-x-503-our-stories-svc-sbst.jpg
       alt: Image alt text
       title: Koh Seng Kee, Executive Service Controller
@@ -104,7 +104,7 @@ sections:
       description: “I look forward to the many initiatives planned for our people and
         infrastructure, especially the new innovative clean energy buses.”
       button: view full story
-      url: https://ptcareers.gov.sg/hear-our-journeys/our-stories/keeping-our-buses-moving-smoothly/
+      url: /hear-our-journeys/our-stories/keeping-our-buses-moving-smoothly/
       image: /images/894-x-503-our-stories-svc-gas_d.jpg
       alt: Image alt text
       title: Ho Weipeng, Service Performance Assistant Manager
