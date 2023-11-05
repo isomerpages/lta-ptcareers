@@ -31,6 +31,10 @@ To better serve commuters in the future, we are transforming our urban landscape
 | ![](/images/industry-outlook4.jpg)More integrated transport hubs nationwide for seamless connections between bus and train | ![](/images/vr-tech.jpg)Enhanced rail reliability with emerging technologies adoption | ![](/images/continual-upskilling-447x223-1.jpg) Professionalise workforce through continual upskilling and reskilling to stay abreast of technology changes |
 | -------- | -------- | -------- |
 
+![](/images/industry_outlook_1.jpg)
+![](/images/industry_outlook_2.jpg)
+![](/images/industry_outlook_3.jpg)
+
 ## Who We Are
 The Land Transport Authority plans, designs and builds Singapore’s land transport infrastructure and systems. We harness technology to strengthen our rail and bus infrastructure and develop exciting options for future land transport.
 
