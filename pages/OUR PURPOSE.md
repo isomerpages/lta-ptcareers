@@ -32,7 +32,9 @@ To better serve commuters in the future, we are transforming our urban landscape
 | -------- | -------- | -------- |
 
 ![](/images/industry_outlook_1.jpg)
+
 ![](/images/industry_outlook_2.jpg)
+
 ![](/images/industry_outlook_3.jpg)
 
 ## Who We Are
