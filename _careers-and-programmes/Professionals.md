@@ -14,7 +14,8 @@ Click on each link to view available positions:
 
 Click on each link to view available positions:
 ![](/images/professional%20careers.jpg)
-[Go-Ahead Singapore](https://go-aheadsingapore.com/careers/)
-[SBS Transit](https://www.sbstransit.com.sg/grow-with-us)
-[SMRT Corporation](https://careers.smrt.com.sg/)
-[Tower Transit](https://towertransit.sg/careers/)
+* [Go-Ahead Singapore](https://go-aheadsingapore.com/careers/)
+* [SBS Transit](https://www.sbstransit.com.sg/grow-with-us)
+* [SMRT Corporation](https://careers.smrt.com.sg/)
+* [Tower Transit](https://towertransit.sg/careers/)
+
