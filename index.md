@@ -129,7 +129,4 @@ sections:
           description: ""
           linktext: Learn more
           url: /highlights/thank-you-pt-workers-on-social/
-  - resources:
-      title: Highlights
-      id: resources
 ---
