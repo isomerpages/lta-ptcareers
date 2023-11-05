@@ -1,9 +1,7 @@
 contact_us: /contact-us/
-show_reach: true
-faq: /faq/
+show_reach: false
 social_media:
   facebook: https://www.facebook.com/WeKeepYourWorldMoving
   twitter: https://twitter.com/LTAsg
   youtube: https://www.youtube.com/@LTAsingapore
   instagram: https://www.instagram.com/ltasg/
-feedback: ""
