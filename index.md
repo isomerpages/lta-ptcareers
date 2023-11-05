@@ -101,9 +101,8 @@ sections:
   - infopic:
       subtitle: Go-Ahead Singapore
       id: infopic
-      description: SEE TEXT “Our public bus industry has developed rapidly and I look
-        forward to the many initiatives planned for our people and
-        infrastructure
+      description: “I look forward to the many initiatives planned for our people and
+        infrastructure, especially the new innovative clean energy buses.”
       button: view full story
       url: google.com
       image: /images/894-x-503-our-stories-svc-gas_d.jpg
