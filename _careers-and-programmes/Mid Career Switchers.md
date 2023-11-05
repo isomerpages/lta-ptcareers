@@ -6,6 +6,8 @@ variant: markdown
 ---
 ### Career Conversion Programme (CCP)
 
+![](/images/careers-page-447x271-mid-career-switcher.jpg)
+
 Career Conversion Programmes (CCPs) help mid-career individuals undergo skills conversion to embark on careers in the public transport industry. Examples of CCPs in the public transport sector include those for Bus Technicians, Station Managers, Assistant Station Managers, as well as Customer Service Officers.
 
 Click on the links below to find out more:
