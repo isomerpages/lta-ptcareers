@@ -94,7 +94,7 @@ sections:
         troubleshoot any unplanned road situations. Every day is a new and
         enriching experience for me.”
       button: View full story
-      url: /hear-our-journeys/our-storie/the-quick-thinker-behind-every-journey/
+      url: /hear-our-journeys/our-stories/the-quick-thinker-behind-every-journey/
       image: /images/894-x-503-our-stories-svc-sbst.jpg
       alt: Image alt text
       title: Koh Seng Kee, Executive Service Controller
