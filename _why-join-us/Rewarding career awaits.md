@@ -17,13 +17,11 @@ With numerous quality improvement programs in implementation, a career with us a
 Touch the lives of millions of commuters every day, as they travel for work, studies and leisure. This opportunity to serve the public is truly gratifying and rewarding.
 
 ![](/images/career-progression-447x271-1.jpg)
-
 #### Career Progression
 
 A skilled workforce is essential in deliving a quality and reliable public transport service to commuters. There is a wide range of skills certification and upgrading schemes available to employees within the industry, with the Singapore Bus Academy and Singapore Rail Academy.
 
 ![](/images/rail-engineering2.jpg)
-
 #### Professional Development
 
 As the public transport sector continues to advance and harness the latest technologies in operations and maintenance, it offers many opportunities to develop your passion and grow your career. You can expect to develop deep technical and management expertise by acquiring these skills in demand: **Data Analytics, Predictive Maintenance, Bus & Rail Asset Management, Cyber Security and Bus & Rail Operations Security**.
