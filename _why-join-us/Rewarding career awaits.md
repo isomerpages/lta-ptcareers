@@ -9,7 +9,10 @@ variant: markdown
 
 With numerous quality improvement programs in implementation, a career with us allows you to play a key role in shaping the future of Singapore’s land transport.
 
+
+![](/images/why%20join%20us%201a.PNG)
 ## Why is a Public Transport Career Rewarding
+
 ![](/images/meaningful-career-447x271-1.jpg)
 #### Meaningful Career
 
@@ -19,7 +22,7 @@ Touch the lives of millions of commuters every day, as they travel for work, stu
 
 #### Career Progression
 
-A skilled workforce is essential in delivering a quality and reliable public transport service to commuters. There is a wide range of skills certification and upgrading schemes available to employees within the industry, with the Singapore Bus Academy and Singapore Rail Academy.
+A skilled workforce is essential in deliving a quality and reliable public transport service to commuters. There is a wide range of skills certification and upgrading schemes available to employees within the industry, with the Singapore Bus Academy and Singapore Rail Academy.
 
 ![](/images/rail-engineering2.jpg)
 
