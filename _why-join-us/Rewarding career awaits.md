@@ -10,9 +10,6 @@ variant: markdown
 With numerous quality improvement programs in implementation, a career with us allows you to play a key role in shaping the future of Singapore’s land transport.
 
 ## Why is a Public Transport Career Rewarding
-![Meaningful career in public transport](/images/why%20join%20us_meaningful%20career.JPG)
-![Career progression in public transport](/images/why%20join%20us_career%20progression.JPG)
-![Professional development in public transport](/images/why%20join%20us_professional%20development.JPG)
 
 ![](/images/meaningful-career-447x271-1.jpg)
 #### Meaningful Career
