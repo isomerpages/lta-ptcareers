@@ -32,18 +32,25 @@ sections:
       url: /our-purpose/
       alt: Image alt text
       image: /images/aboutpt-desktop2.jpg
-  - infocols:
+  - textcards:
       title: Why Join Us
-      id: infocols
-      linktext: Learn more
-      infoboxes:
+      id: textcards
+      description: From shaping the future of Singapore’s land transport to
+        advancement opportunities, being the one behind every journey makes for
+        a fulfilling and rewarding career.
+      cards:
         - title: Shape the way commuters travel every day
           description: ""
-        - title: Develop your career with amazing opportunities
+          linktext: Learn more
+          url: /why-join-us/
+        - title: Grow your career with amazing opportunities
           description: ""
-        - title: "Develop deep technical and management expertise "
+          linktext: Learn more
+          url: /why-join-us/
+        - title: Develop deep technical and management expertise
           description: ""
-      url: /why-join-us/
+          linktext: Learn more
+          url: /why-join-us/
   - infopic:
       subtitle: SMRT Trains
       id: infopic
@@ -128,23 +135,4 @@ sections:
           description: ""
           linktext: Learn more
           url: /highlights/thank-you-pt-workers-on-social/
-  - textcards:
-      title: Why Join Us
-      id: textcards
-      description: From shaping the future of Singapore’s land transport to
-        advancement opportunities, being the one behind every journey makes for
-        a fulfilling and rewarding career.
-      cards:
-        - title: Shape the way commuters travel every day
-          description: ""
-          linktext: Learn more
-          url: /why-join-us/
-        - title: Grow your career with amazing opportunities
-          description: ""
-          linktext: Learn more
-          url: /why-join-us/
-        - title: Develop deep technical and management expertise
-          description: ""
-          linktext: Learn more
-          url: /why-join-us/
 ---
