@@ -39,9 +39,9 @@ sections:
       infoboxes:
         - title: Shape the way commuters travel every day
           description: ""
-        - title: Be professionally accredited with our schemes
-          description: ""
         - title: Develop your career with amazing opportunities
+          description: ""
+        - title: "Develop deep technical and management expertise "
           description: ""
       url: /why-join-us/
   - infopic:
