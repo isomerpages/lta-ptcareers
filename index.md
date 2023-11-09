@@ -128,4 +128,23 @@ sections:
           description: ""
           linktext: Learn more
           url: /highlights/thank-you-pt-workers-on-social/
+  - textcards:
+      title: Why Join Us
+      id: textcards
+      description: From shaping the future of Singapore’s land transport to
+        advancement opportunities, being the one behind every journey makes for
+        a fulfilling and rewarding career.
+      cards:
+        - title: Shape the way commuters travel every day
+          description: ""
+          linktext: Learn more
+          url: /why-join-us/
+        - title: Grow your career with amazing opportunities
+          description: ""
+          linktext: Learn more
+          url: /why-join-us/
+        - title: Develop deep technical and management expertise
+          description: ""
+          linktext: Learn more
+          url: /why-join-us/
 ---
