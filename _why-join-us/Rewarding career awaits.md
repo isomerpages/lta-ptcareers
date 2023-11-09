@@ -18,3 +18,4 @@ Whether you are looking for vertical or lateral progression, a career in the pub
 For more information on the Skills Framework for Public Transport, click [here](https://www.skillsfuture.gov.sg/skills-framework/public-transport).
 
 ![](/images/skillsframework_pt_career%20map_final-01.jpg)
+Click here to [view](/images/skillsframework_pt_career%20map_final-01.jpg)
