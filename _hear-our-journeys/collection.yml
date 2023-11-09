@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Our Stories/.keep
-      - Our Stories/Powering The Future.md
+      - Our Stories/Powering the Future.md
       - Our Stories/The Quick Thinker Behind Every Journey.md
       - Our Stories/Keeping Our Buses Moving Smoothly.md
       - Our Stories/The Round The Clock Optimist.md
