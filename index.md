@@ -32,7 +32,7 @@ sections:
       button: Learn More
       url: /our-purpose/
       alt: Image alt text
-      image: /images/aboutpt-desktop2.jpg
+      image: /images/20160923_LTA_StockTrainBus_HR_31_resize.jpg
   - textcards:
       title: Why Join Us
       id: textcards
