@@ -63,27 +63,6 @@ sections:
       url: /hear-our-journeys/our-stories/powering-the-future/
       title: Kishen Kumar, Manager, Power Plans
   - infopic:
-      subtitle: SBS Transit Ltd
-      id: infopic
-      description: “This role is challenging and requires quick-thinking skills to
-        troubleshoot any unplanned road situations. Every day is a new and
-        enriching experience for me.”
-      button: View full story
-      url: /hear-our-journeys/our-stories/the-quick-thinker-behind-every-journey/
-      image: /images/894-x-503-our-stories-svc-sbst.jpg
-      alt: Image alt text
-      title: Koh Seng Kee, Executive Service Controller
-  - infopic:
-      subtitle: Go-Ahead Singapore
-      id: infopic
-      description: “I look forward to the many initiatives planned for our people and
-        infrastructure, especially the new innovative clean energy buses.”
-      button: view full story
-      url: /hear-our-journeys/our-stories/keeping-our-buses-moving-smoothly/
-      image: /images/894-x-503-our-stories-svc-gas_d.jpg
-      alt: Image alt text
-      title: Ho Weipeng, Service Performance Assistant Manager
-  - infopic:
       title: Joey Neo Wan Qi, Senior Engineer, Permanent Way
       subtitle: SBS Transit Ltd
       id: infopic
@@ -116,6 +95,27 @@ sections:
       url: /hear-our-journeys/our-stories/motivated-by-the-world-and-every-single-smile/
       image: /images/894-x-503-our-stories-station-mgr.jpg
       alt: Image alt text
+  - infopic:
+      subtitle: Go-Ahead Singapore
+      id: infopic
+      description: “I look forward to the many initiatives planned for our people and
+        infrastructure, especially the new innovative clean energy buses.”
+      button: view full story
+      url: /hear-our-journeys/our-stories/keeping-our-buses-moving-smoothly/
+      image: /images/894-x-503-our-stories-svc-gas_d.jpg
+      alt: Image alt text
+      title: Ho Weipeng, Service Performance Assistant Manager
+  - infopic:
+      subtitle: SBS Transit Ltd
+      id: infopic
+      description: “This role is challenging and requires quick-thinking skills to
+        troubleshoot any unplanned road situations. Every day is a new and
+        enriching experience for me.”
+      button: View full story
+      url: /hear-our-journeys/our-stories/the-quick-thinker-behind-every-journey/
+      image: /images/894-x-503-our-stories-svc-sbst.jpg
+      alt: Image alt text
+      title: Koh Seng Kee, Executive Service Controller
   - textcards:
       title: Highlights
       id: textcards
