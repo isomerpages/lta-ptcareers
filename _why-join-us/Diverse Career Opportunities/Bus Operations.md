@@ -14,7 +14,8 @@ variant: markdown
     <img style="width:100%" alt="Image 1" src="/images/bus-service-route-operations-447x271-1.jpg">
     <h4 style="margin-top:10px;" id="bus-operations">Bus Service Route Operations</h4>
 	<p style="margin-top:10px;">The Bus Service Route Operations functional track involves the provision of public bus services on predetermined service routes and timed schedules. Bus Captains operate the service routes to provide safe, comfortable and reliable public bus services to commuters.</p>
-  </div>
+	<p>
+  </p></div>
   <div style="float: left;
       width: 50%;
       padding: 10px;">
