@@ -21,15 +21,16 @@ variant: markdown
     <img style="width:100%" alt="Image 2" src="/images/permanent-way-and-civil-structure-447x271-1.jpg">
    <h4 style="margin-top:10px;" id="Engineering-Train">Engineering Train</h4>
 	<p style="margin-top:10px;">The Engineering Train functional track involves the deployment of specialised railway vehicles to perform measurement and alignment of rail tracks, profiling of rails, inspection of viaducts, cleaning of tunnels, and the maintenance of specialised railway vehicles.</p>
-		
-  </div>
+			<p>
+  </p></div>
 			<div style="float: left;
       width: 50%;
       padding: 10px;">
     <img style="width:100%" alt="Image 1" src="/images/engineering-train-447x271-1.jpg">
      <h4 style="margin-top:10px;" id="Engineering-Train">Permanent Way and Civil Structure</h4>
 	<p style="margin-top:10px;">The Permanent Way and Civil Structure functions track involves the inspection, repair and maintenance of rail tracks, tunnels, viaducts, buildings within the railway network and reserves, and the engineering work to monitor, analyse and improve the reliability of the track work and infrastructure.</p>
-  </div>
+					<p>
+  </p></div>
 <div style="float: left;
       width: 50%;
       padding: 10px;">
@@ -43,7 +44,8 @@ variant: markdown
     <img style="width:100%" alt="Image 1" src="/images/mechanical-and-electrical-447x271-1.jpg">
      <h4 style="margin-top:10px;" id="Engineering-Train">Mechanical and Electrical</h4>
 	<p style="margin-top:10px;">The Mechanical and Electrical functional track involves the maintenance of mechanical and electrical systems within the rail network, such as lifts, escalators, station air-conditioning and ventilation systems, fire protection systems, and engineering work to monitor, analyse and improve the reliability of Mechanical and Electrical systems.</p>
-  </div>
+			<p>
+  </p></div>
 <div style="float: left;
       width: 50%;
       padding: 10px;">
