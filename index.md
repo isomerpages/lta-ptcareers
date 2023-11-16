@@ -120,11 +120,11 @@ sections:
       title: Highlights
       id: textcards
       cards:
-        - title: Behind The Scenes at IMDC
+        - title: Behind the Scenes at IMDC
           description: ""
           linktext: Learn more
           url: /hear-our-journeys/our-videos/behind-the-scenes-at-imdc/
-        - title: What does a Rolling Stock Engineer do?
+        - title: What Does a Rolling Stock Engineer Do?
           description: ""
           linktext: Learn more
           url: /hear-our-journeys/our-videos/what-does-a-rolling-stock-engineer-do/
