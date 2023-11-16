@@ -3,10 +3,13 @@ title: Bus Operations
 permalink: /why-join-us/diverse-career-opportunities/bus-operations/
 description: ""
 third_nav_title: Diverse Career Opportunities
+variant: markdown
 ---
+
+
 ![](/images/bus-service-route-operations-447x271-1.jpg)
-### Bus Workshop
-The Bus Workshop functional track involves the maintenance of the bus fleet including the automotive components such as the electrical and electronics systems engine, as well as the maintenance and repair regime, bus workshop operations, and on-the road recovery of buses.
+### Bus Service Route Operations
+The Bus Service Route Operations functional track involves the provision of public bus services on predetermined service routes and timed schedules. Bus Captains operate the service routes to provide safe, comfortable and reliable public bus services to commuters.
 
 ![](/images/bus-depot-management-447x271-1.jpg)
 ### Bus Depot Management
