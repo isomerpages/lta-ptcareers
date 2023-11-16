@@ -5,7 +5,7 @@ description: Public transport is a key enabler of Singapore's economy. Learn
   more about the industry, the roles and the career opportunities available.
 image: /images/behind every journey.png
 permalink: /
-notification: Welcome to our Public Transport Career Website!
+notification: We have just migrated to Isomer platform, hope you like our new look!
 sections:
   - hero:
       title: Behind Every Journey
