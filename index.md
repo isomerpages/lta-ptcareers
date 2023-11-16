@@ -128,7 +128,7 @@ sections:
           description: ""
           linktext: Learn more
           url: /hear-our-journeys/our-videos/what-does-a-rolling-stock-engineer-do/
-        - title: PT Workers Appreciation Day
+        - title: PT Workers' Appreciation Day
           description: ""
           linktext: Learn more
           url: /highlights/public-transport-workers-appreciation-day/
