@@ -75,6 +75,16 @@ sections:
       image: /images/894-x-503-our-stories-station-mgr.jpg
       alt: Image alt text
   - infopic:
+      subtitle: SMRT Trains
+      id: infopic
+      description: “The most fulfilling part of my job is knowing that I have the
+        ability to influence the future of our Rail Transport System.”
+      button: View Full Story
+      alt: Image alt text
+      image: /images/894-x-503-our-stories-power.jpg
+      url: /hear-our-journeys/our-stories/powering-the-future/
+      title: Kishen Kumar, Manager, Power Plans
+  - infopic:
       title: Joey Neo Wan Qi, Senior Engineer, Permanent Way
       subtitle: SBS Transit Ltd
       id: infopic
@@ -85,16 +95,6 @@ sections:
       url: /hear-our-journeys/our-stories/the-round-the-clock-optimist/
       image: /images/894-x-503-our-stories-pway.jpg
       alt: Image alt text
-  - infopic:
-      subtitle: SMRT Trains
-      id: infopic
-      description: “The most fulfilling part of my job is knowing that I have the
-        ability to influence the future of our Rail Transport System.”
-      button: View Full Story
-      alt: Image alt text
-      image: /images/894-x-503-our-stories-power.jpg
-      url: /hear-our-journeys/our-stories/powering-the-future/
-      title: Kishen Kumar, Manager, Power Plans
   - infopic:
       subtitle: Go-Ahead Singapore
       id: infopic
