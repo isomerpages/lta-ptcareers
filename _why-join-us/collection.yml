@@ -1,0 +1,10 @@
+collections:
+  why-join-us:
+    output: true
+    order:
+      - Rewarding Career Awaits.md
+      - Diverse Career Opportunities/.keep
+      - Diverse Career Opportunities/Rail Engineering.md
+      - Diverse Career Opportunities/Rail Operations.md
+      - Diverse Career Opportunities/Bus Fleet Engineering.md
+      - Diverse Career Opportunities/Bus Operations.md

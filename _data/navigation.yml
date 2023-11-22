@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/behind every journey.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Our Purpose
+    url: /our-purpose/
+  - title: Why Join Us
+    collection: why-join-us
+  - title: Career and Programmes
+    collection: careers-and-programmes
+  - title: Hear Our Journeys
+    collection: hear-our-journeys
+  - title: Highlights
+    collection: highlights
