@@ -54,7 +54,7 @@ staging: https://staging.d3474y91fsvb7c.amplifyapp.com
 prod: https://master.d3474y91fsvb7c.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/behind every journey.png
-is_government: false
-google_analytics_ga4: ""
+is_government: true
+google_analytics_ga4: G-21PX58T56B
 linkedin-insights: ""
 resources_name: homepage
