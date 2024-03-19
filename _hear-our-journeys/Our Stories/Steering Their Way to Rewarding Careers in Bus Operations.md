@@ -52,7 +52,8 @@ to provide assistance to&nbsp;passengers who ask for directions.</p>
 <p>Mr Lathiff added that the most enjoyable aspect of his role is the variety
 it offers, as he is often assigned to different routes to assist with operational
 needs. “It keeps every day unique and engaging,” he&nbsp;explained.</p>
-<h2><strong>WHAT ARE SOME ESSENTIAL QUALITIES A&nbsp;<br>BUS&nbsp;CAPTAIN SHOULD POSSESS?</strong></h2>
+<p><strong>WHAT ARE SOME ESSENTIAL QUALITIES A&nbsp;<br>BUS&nbsp;CAPTAIN SHOULD POSSESS?</strong>
+</p>
 <p>A: “Patience and a strong commitment to safety. Patience comes in handy
 not only when dealing with unexpected traffic, but also in understanding
 passengers’ diverse&nbsp;needs.</p>
@@ -61,8 +62,10 @@ the well-being of&nbsp;my&nbsp;passengers.”</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; border-style: none; display: block; height: auto; max-width: 100%; border-radius: 0px; line-height: 1.4; width: 608px;" height="auto" width="100%" alt="Mr Abdul Lathiff Mohamed Rafi" src="https://onecms-res.cloudinary.com/image/upload/s--l6cIjjPe--/w_800/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/15/bstudio_lta_busops_sidebarimg.jpg">
 </div>
+<blockquote>
 <p><strong>Mr Abdul Lathiff Mohamed Rafi, senior bus captain, SBS Transit</strong>
 </p>
+</blockquote>
 <p>&nbsp;</p>
 <p><strong>INVESTING IN PEOPLE AND SERVICES</strong>
 </p>
