@@ -19,8 +19,8 @@ who may require extra attention,” he explained.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; border-style: none; display: block; height: auto; max-width: 100%; border-radius: 0px; line-height: 1.4; width: 760px; padding-top: 20px;" height="auto" width="100%" alt="" src="https://onecms-res.cloudinary.com/image/upload/s--56JHjC9I--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/13/bstudio_lta_busops_img01.jpg?itok=UcOl6Jvt">
 </div>
-<p>As a standby bus captain, Mr Lathiff (left) takes on mentoring duties
-in addition to his driving responsibilities.</p>
+<p><em>As a standby bus captain, Mr Lathiff (left) takes on mentoring duties in addition to his driving responsibilities.</em>
+</p>
 <p>With 23 years of experience as a bus captain, Mr Lathiff is not just well-versed
 in the job’s routines – he has also memorised an impressive 42 different
 bus service routes in his role as a standby bus captain. Achieving this
@@ -35,11 +35,10 @@ mile to ensure they’re on the right bus.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; border-style: none; display: block; height: auto; max-width: 100%; border-radius: 0px; line-height: 1.4; width: 760px; padding-top: 20px;" height="auto" width="100%" alt="" src="https://onecms-res.cloudinary.com/image/upload/s--ckFf8WvE--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/13/bstudio_lta_busops_img02a.jpg?itok=kzAJWkVH">
 </div>
-<p>&nbsp;</p>
-<p>"SEEING PASSENGERS’ SMILE WHEN THEY BOARD THE BUS IS INCREDIBLY REWARDING.
-IT’S HEARTWARMING TO RECEIVE THIS&nbsp;ACKNOWLEDGEMENT, KNOWING THAT THE
-WORK WE DO&nbsp;IS&nbsp;VALUED&nbsp;AND APPRECIATED."</p>
-<p>– MR ABDUL LATHIFF MOHAMED RAFI, SENIOR&nbsp;BUS CAPTAIN, SBS TRANSIT</p>
+<p>&nbsp;<em>"SEEING PASSENGERS’ SMILE WHEN THEY BOARD THE BUS IS INCREDIBLY REWARDING. IT’S HEARTWARMING TO RECEIVE THIS&nbsp;ACKNOWLEDGEMENT, KNOWING THAT THE WORK WE DO&nbsp;IS&nbsp;VALUED&nbsp;AND APPRECIATED."</em>
+</p>
+<p><em>– MR ABDUL LATHIFF MOHAMED RAFI, SENIOR&nbsp;BUS CAPTAIN, SBS TRANSIT</em>
+</p>
 <p>Mr Lathiff’s dedication to providing excellent service also involves paying
 attention to the little things that make a difference: “During trips, I
 always prioritise allowing the elderly, pregnant and other vulnerable passengers
@@ -47,8 +46,8 @@ to be seated comfortably before moving off.”</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; border-style: none; display: block; height: auto; max-width: 100%; border-radius: 0px; line-height: 1.4; width: 760px; padding-top: 20px;" height="auto" width="100%" alt="" src="https://onecms-res.cloudinary.com/image/upload/s--kZGiAIVZ--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/13/bstudio_lta_busops_img02.jpg?itok=5RmcK42d">
 </div>
-<p>Having memorised an impressive 42 service routes, Mr Lathiff is well-positioned
-to provide assistance to&nbsp;passengers who ask for directions.</p>
+<p><em>Having memorised an impressive 42 service routes, Mr Lathiff is well-positioned to provide assistance to&nbsp;passengers who ask for directions.</em>
+</p>
 <p>Mr Lathiff added that the most enjoyable aspect of his role is the variety
 it offers, as he is often assigned to different routes to assist with operational
 needs. “It keeps every day unique and engaging,” he&nbsp;explained.</p>
@@ -64,7 +63,6 @@ the well-being of&nbsp;my&nbsp;passengers.”</p>
 </div>
 <p><em>Mr Abdul Lathiff Mohamed Rafi, senior bus captain, SBS Transit</em>
 </p>
-<p>&nbsp;</p>
 <p><strong>INVESTING IN PEOPLE AND SERVICES</strong>
 </p>
 <p>Bus captains can rise through the ranks to reach the position of chief
@@ -93,7 +91,7 @@ greeting. Whenever I meet my regulars, we would greet each other warmly.
 As this is my passion, I always have the mindset that everything is manageable
 and achievable,” he said. “My family and my commitment to delivering exceptional
 service are the driving forces that motivate me to do well in my job.”</p>
-<p>Previous</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; border-style: none; display: block; height: auto; max-width: 100%; border-radius: 0px; line-height: 1.4; cursor: pointer; width: 370px; padding: 0px; margin-left: auto; margin-right: auto;" height="auto" width="100%" alt="" src="https://onecms-res.cloudinary.com/image/upload/s--ps6MaRXy--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/13/bstudio_lta_busops_gallery1.gif?itok=7s0a689O">
 </div>
@@ -184,13 +182,10 @@ he recalled.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; border-style: none; display: block; height: auto; max-width: 100%; border-radius: 0px; line-height: 1.4; width: 760px; padding-top: 20px;" height="auto" width="100%" alt="" src="https://onecms-res.cloudinary.com/image/upload/s--iH8f1y28--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/13/bstudio_lta_busops_img06.jpg?itok=HVm-pAyy">
 </div>
-<p>&nbsp;</p>
-<p>"I FEEL A GREAT SENSE OF ACCOMPLISHMENT WHEN I MANAGE TO GET OUR SERVICES
-BACK ON TRACK AFTER A MAJOR TRAFFIC DELAY. BY&nbsp;EMPLOYING SERVICE CONTROL
-STRATEGIES AND WITH A LITTLE LUCK, SOMETIMES THE STARS ALIGN AND WE’RE
-ABLE TO GET OUR BUSES TO ARRIVE AT THE BUS STOPS IN A TIMELY MANNER, AS
-IF NOTHING EVER HAPPENED. THAT FEELING IS MAGICAL!"</p>
-<p>– MR MOHAMMAD ASRI MURAT, BUS SERVICE CONTROLLER, TOWER TRANSIT SINGAPORE</p>
+<p><em>&nbsp;"I FEEL A GREAT SENSE OF ACCOMPLISHMENT WHEN I MANAGE TO GET OUR SERVICES BACK ON TRACK AFTER A MAJOR TRAFFIC DELAY. BY&nbsp;EMPLOYING SERVICE CONTROL STRATEGIES AND WITH A LITTLE LUCK, SOMETIMES THE STARS ALIGN AND WE’RE ABLE TO GET OUR BUSES TO ARRIVE AT THE BUS STOPS IN A TIMELY MANNER, AS IF NOTHING EVER HAPPENED. THAT FEELING IS MAGICAL!"</em>
+</p>
+<p><em>– MR MOHAMMAD ASRI MURAT, BUS SERVICE CONTROLLER, TOWER TRANSIT SINGAPORE</em>
+</p>
 <p>
 <br>Minimising delays and inconveniences to commuters are also top priorities
 when Mr Asri is called upon to deploy buses for a bridging service during
