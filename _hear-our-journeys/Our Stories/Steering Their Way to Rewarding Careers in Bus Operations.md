@@ -62,10 +62,8 @@ the well-being of&nbsp;my&nbsp;passengers.”</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; border-style: none; display: block; height: auto; max-width: 100%; border-radius: 0px; line-height: 1.4; width: 608px;" height="auto" width="100%" alt="Mr Abdul Lathiff Mohamed Rafi" src="https://onecms-res.cloudinary.com/image/upload/s--l6cIjjPe--/w_800/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/15/bstudio_lta_busops_sidebarimg.jpg">
 </div>
-<blockquote>
-<p><strong>Mr Abdul Lathiff Mohamed Rafi, senior bus captain, SBS Transit</strong>
+<p><em>Mr Abdul Lathiff Mohamed Rafi, senior bus captain, SBS Transit</em>
 </p>
-</blockquote>
 <p>&nbsp;</p>
 <p><strong>INVESTING IN PEOPLE AND SERVICES</strong>
 </p>
@@ -97,12 +95,6 @@ and achievable,” he said. “My family and my commitment to delivering excepti
 service are the driving forces that motivate me to do well in my job.”</p>
 <p>Previous</p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border-style: none; display: block; height: auto; max-width: 100%; border-radius: 0px; line-height: 1.4; cursor: pointer; width: 370px; padding: 0px; margin-left: auto; margin-right: auto;" height="auto" width="100%" alt="" src="https://onecms-res.cloudinary.com/image/upload/s--BZjC7YE4--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/13/bstudio_lta_busops_gallery4.gif?itok=E3epRtwl">
-</div>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border-style: none; display: block; height: auto; max-width: 100%; border-radius: 0px; line-height: 1.4; cursor: pointer; width: 370px; padding: 0px; margin-left: auto; margin-right: auto;" height="auto" width="100%" alt="" src="https://onecms-res.cloudinary.com/image/upload/s--oY6SFB7g--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/14/bstudio_LTA_BusOps_Gallery5.gif?itok=X2PYj75R">
-</div>
-<div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; border-style: none; display: block; height: auto; max-width: 100%; border-radius: 0px; line-height: 1.4; cursor: pointer; width: 370px; padding: 0px; margin-left: auto; margin-right: auto;" height="auto" width="100%" alt="" src="https://onecms-res.cloudinary.com/image/upload/s--ps6MaRXy--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/13/bstudio_lta_busops_gallery1.gif?itok=7s0a689O">
 </div>
 <div class="isomer-image-wrapper">
@@ -117,39 +109,7 @@ service are the driving forces that motivate me to do well in my job.”</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; border-style: none; display: block; height: auto; max-width: 100%; border-radius: 0px; line-height: 1.4; cursor: pointer; width: 370px; padding: 0px; margin-left: auto; margin-right: auto;" height="auto" width="100%" alt="" src="https://onecms-res.cloudinary.com/image/upload/s--oY6SFB7g--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/14/bstudio_LTA_BusOps_Gallery5.gif?itok=X2PYj75R">
 </div>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border-style: none; display: block; height: auto; max-width: 100%; border-radius: 0px; line-height: 1.4; cursor: pointer; width: 370px; padding: 0px; margin-left: auto; margin-right: auto;" height="auto" width="100%" alt="" src="https://onecms-res.cloudinary.com/image/upload/s--ps6MaRXy--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/13/bstudio_lta_busops_gallery1.gif?itok=7s0a689O">
-</div>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border-style: none; display: block; height: auto; max-width: 100%; border-radius: 0px; line-height: 1.4; cursor: pointer; width: 370px; padding: 0px; margin-left: auto; margin-right: auto;" height="auto" width="100%" alt="" src="https://onecms-res.cloudinary.com/image/upload/s--JVwz13ik--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/13/bstudio_lta_busops_gallery2.gif?itok=cNBDoOcO">
-</div>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border-style: none; display: block; height: auto; max-width: 100%; border-radius: 0px; line-height: 1.4; cursor: pointer; width: 370px; padding: 0px; margin-left: auto; margin-right: auto;" height="auto" width="100%" alt="" src="https://onecms-res.cloudinary.com/image/upload/s--smuDJTPo--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/13/bstudio_lta_busops_gallery3.gif?itok=aua202OH">
-</div>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border-style: none; display: block; height: auto; max-width: 100%; border-radius: 0px; line-height: 1.4; cursor: pointer; width: 370px; padding: 0px; margin-left: auto; margin-right: auto;" height="auto" width="100%" alt="" src="https://onecms-res.cloudinary.com/image/upload/s--BZjC7YE4--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/13/bstudio_lta_busops_gallery4.gif?itok=E3epRtwl">
-</div>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border-style: none; display: block; height: auto; max-width: 100%; border-radius: 0px; line-height: 1.4; cursor: pointer; width: 370px; padding: 0px; margin-left: auto; margin-right: auto;" height="auto" width="100%" alt="" src="https://onecms-res.cloudinary.com/image/upload/s--oY6SFB7g--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/14/bstudio_LTA_BusOps_Gallery5.gif?itok=X2PYj75R">
-</div>
-<p>Next</p>
-<p>Previous</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border-style: none; display: block; height: auto; max-width: 100%; border-radius: 0px; line-height: 1.4; width: 691px; padding: 0px; margin-left: auto; margin-right: auto;" height="auto" width="100%" alt="" src="https://onecms-res.cloudinary.com/image/upload/s--ps6MaRXy--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/13/bstudio_lta_busops_gallery1.gif?itok=7s0a689O">
-</div>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border-style: none; display: block; height: auto; max-width: 100%; border-radius: 0px; line-height: 1.4; width: 691px; padding: 0px; margin-left: auto; margin-right: auto;" height="auto" width="100%" alt="" src="https://onecms-res.cloudinary.com/image/upload/s--JVwz13ik--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/13/bstudio_lta_busops_gallery2.gif?itok=cNBDoOcO">
-</div>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border-style: none; display: block; height: auto; max-width: 100%; border-radius: 0px; line-height: 1.4; width: 691px; padding: 0px; margin-left: auto; margin-right: auto;" height="auto" width="100%" alt="" src="https://onecms-res.cloudinary.com/image/upload/s--smuDJTPo--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/13/bstudio_lta_busops_gallery3.gif?itok=aua202OH">
-</div>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border-style: none; display: block; height: auto; max-width: 100%; border-radius: 0px; line-height: 1.4; width: 691px; padding: 0px; margin-left: auto; margin-right: auto;" height="auto" width="100%" alt="" src="https://onecms-res.cloudinary.com/image/upload/s--BZjC7YE4--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/13/bstudio_lta_busops_gallery4.gif?itok=E3epRtwl">
-</div>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border-style: none; display: block; height: auto; max-width: 100%; border-radius: 0px; line-height: 1.4; width: 691px; padding: 0px; margin-left: auto; margin-right: auto;" height="auto" width="100%" alt="" src="https://onecms-res.cloudinary.com/image/upload/s--oY6SFB7g--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/14/bstudio_LTA_BusOps_Gallery5.gif?itok=X2PYj75R">
-</div>
-<p>Next</p>
+<p></p>
 <p><strong>ENSURING A SMOOTH START FOR COMMUTERS BEHIND THE SCENES</strong>
 </p>
 <p>Unlike Mr Lathiff, Mr Mohammad Asri Murat’s job does not involve interacting
@@ -167,9 +127,8 @@ his parents took him out for joyrides on the public bus network.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; border-style: none; display: block; height: auto; max-width: 100%; border-radius: 0px; line-height: 1.4; width: 760px; padding-top: 20px;" height="auto" width="100%" alt="" src="https://onecms-res.cloudinary.com/image/upload/s--B_d-XiGc--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/13/bstudio_lta_busops_img03.jpg?itok=Qv4QOUwx">
 </div>
-<p>Mr Mohammad Asri Murat, a bus service controller at Tower Transit Singapore,
-says that his interest in the public&nbsp;transport industry was kindled
-when he was a young boy.</p>
+<p><em>Mr Mohammad Asri Murat, a bus service controller at Tower Transit Singapore, says that his interest in the public&nbsp;transport industry was kindled when he was a young boy.</em>
+</p>
 <p>These bus rides sparked a lifelong hobby that eventually became his career.
 From posting on local forums for bus enthusiasts and running a social media
 account dedicated to Singapore buses, Mr Asri took the plunge to become
@@ -183,8 +142,8 @@ ensuring that there are sufficient buses available to meet passenger demand.”<
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; border-style: none; display: block; height: auto; max-width: 100%; border-radius: 0px; line-height: 1.4; width: 760px; padding-top: 20px;" height="auto" width="100%" alt="" src="https://onecms-res.cloudinary.com/image/upload/s--wO8ZmLu9--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/13/bstudio_lta_busops_img04.jpg?itok=2b1vFy37">
 </div>
-<p>Being a bus service controller involves anticipating the unexpected and
-keeping a cool head when things get hectic, says Mr Asri.</p>
+<p><em>Being a bus service controller involves anticipating the unexpected and keeping a cool head when things get hectic, says Mr Asri.</em>
+</p>
 <p>Two years on, he says that being a bus service controller is far from
 a simple office job. It involves anticipating the unexpected and developing
 the resilience required to make critical decisions.</p>
@@ -209,8 +168,8 @@ times of crisis, ever ready to swoop in to ease my&nbsp;stress.”</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; border-style: none; display: block; height: auto; max-width: 100%; border-radius: 0px; line-height: 1.4; width: 760px; padding-top: 20px;" height="auto" width="100%" alt="" src="https://onecms-res.cloudinary.com/image/upload/s--YaGz6Ju8--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/13/bstudio_lta_busops_img05.jpg?itok=QmhZA5i0">
 </div>
-<p>Mr Asri works in a tight-knit team and says that his colleagues are always
-ready to render assistance when needed.</p>
+<p><em>Mr Asri works in a tight-knit team and says that his colleagues are always ready to render assistance when needed.</em>
+</p>
 <p>When things get hectic, Mr Asri keeps a cool head and swings into action
 by deciding on the next steps to minimise service delays. For example,
 when <a href="https://www.todayonline.com/singapore/big-tree-city-plaza-cut-down-after-toppling-road-and-crushing-vehicles-sept-10-2251586" rel="noopener" target="_blank">a tree fell along Paya Lebar Road</a> in
@@ -232,7 +191,8 @@ STRATEGIES AND WITH A LITTLE LUCK, SOMETIMES THE STARS ALIGN AND WE’RE
 ABLE TO GET OUR BUSES TO ARRIVE AT THE BUS STOPS IN A TIMELY MANNER, AS
 IF NOTHING EVER HAPPENED. THAT FEELING IS MAGICAL!"</p>
 <p>– MR MOHAMMAD ASRI MURAT, BUS SERVICE CONTROLLER, TOWER TRANSIT SINGAPORE</p>
-<p>Minimising delays and inconveniences to commuters are also top priorities
+<p>
+<br>Minimising delays and inconveniences to commuters are also top priorities
 when Mr Asri is called upon to deploy buses for a bridging service during
 train disruptions. In these situations, he and his colleagues would have
 to rush to identify bus captains who are available to man the service.</p>
@@ -243,5 +203,5 @@ control of your thoughts and actions.”</p>
 in the bus operations control centre, or in the fields of bus operations
 or management. For now, he plans to continue learning and growing in his
 role as a bus service controller.</p>
-<p>He added, “While this job can be&nbsp; challenging for newcomers, it becomes
+<p>He added, “While this job can be&nbsp;challenging for newcomers, it becomes
 very fulfilling once you learn the ropes.”</p>
