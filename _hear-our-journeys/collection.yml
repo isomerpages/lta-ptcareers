@@ -2,6 +2,7 @@ collections:
   hear-our-journeys:
     output: true
     order:
+      - Our Stories/Steering Their Way to Rewarding Careers in Bus Operations.md
       - Our Stories/.keep
       - Our Stories/From Childhood Fascination to Everyday Discovery.md
       - Our Stories/Motivated by the World and Every Single Smile.md
@@ -14,3 +15,4 @@ collections:
       - Our Videos/Behind the Scenes at IMDC.md
       - Our Videos/What Does a Rolling Stock Engineer Do?.md
       - Our Videos/What Does It Take to Become a Bus Captain.md
+      - Our Videos/Crafting Tomorrow's Journey.md
