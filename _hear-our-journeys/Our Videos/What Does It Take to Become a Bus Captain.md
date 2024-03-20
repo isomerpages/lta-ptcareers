@@ -11,6 +11,6 @@ third_nav_title: Our Videos
 what it really takes to become a Bus Captain.</p>
 <p>(Credit to: SBS Transit Ltd)</p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="314" width="560" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FSBSTcareers%2Fvideos%2F3460525090905561%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2rSQzfgFBbg?si=2dfSnfzrGV5YYqHX"></iframe>
 </div>
 <p></p>
