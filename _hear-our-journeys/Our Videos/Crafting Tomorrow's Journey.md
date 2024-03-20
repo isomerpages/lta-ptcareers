@@ -1,6 +1,6 @@
 ---
 title: Crafting Tomorrow's Journey
-permalink: /hear-our-journeys/our-videos/permalink/
+permalink: /hear-our-journeys/our-videos/crafting-tomorrow-journey/
 variant: tiptap
 description: Discover the dedication that goes into every track as we celebrate
   the unsung heroes of our railways - Permanent Way Technicians and Engineers.

@@ -1,6 +1,6 @@
 ---
 title: What Does It Take to Become a Bus Captain?
-permalink: /hear-our-journeys/our-videos/permalink/
+permalink: /hear-our-journeys/our-videos/what-does-it-take-to-become-a-bus-captain/
 variant: tiptap
 description: Hop on board and watch how Annette Lee discovers what it really
   takes to become a Bus Captain
