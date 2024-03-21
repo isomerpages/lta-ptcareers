@@ -2,6 +2,7 @@ collections:
   hear-our-journeys:
     output: true
     order:
+      - Our Stories/Signalling Rail Safety And Reliability.md
       - Our Stories/On Track For Success.md
       - Our Stories/Engineering A Smooth Ride.md
       - Our Stories/Steering Their Way to Rewarding Careers in Bus Operations.md
