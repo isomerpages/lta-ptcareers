@@ -13,10 +13,9 @@ skills conversion to embark on careers in the public transport industry.
 Examples of CCPs in the public transport sector include those for Bus Technicians,
 Station Managers, Assistant Station Managers, as well as Customer Service
 Officers.</p>
-<p>Click on the links below to find out more:</p>
-<p>
+<p>Click on the links below to find out more:
 <br><a href="https://conversion.mycareersfuture.gov.sg/Portal/ProgramDetails.aspx?ProgID=P00000172" rel="noopener noreferrer nofollow" target="_blank">CCP for Rail Operations Professionals (SBST)</a> 
 <br><a href="https://conversion.mycareersfuture.gov.sg/portal/ProgramDetails.aspx?ProgID=P00001951" rel="noopener noreferrer nofollow" target="_blank">CCP for Rail Engineers (SMRT)</a> 
 <br><a href="https://conversion.mycareersfuture.gov.sg/Portal/ProgramDetails.aspx?ProgID=P00000171" rel="noopener noreferrer nofollow" target="_blank">CCP for Rail Operations Professionals (SMRT)</a> 
-<br><a href="https://conversion.mycareersfuture.gov.sg/portal/ProgramDetails.aspx?ProgID=P00001959" rel="noopener noreferrer nofollow" target="_blank">CCP for Rail Traffic Controllers (SBST)</a>
+<br>
 </p>
