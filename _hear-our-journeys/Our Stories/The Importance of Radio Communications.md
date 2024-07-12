@@ -84,10 +84,10 @@ to run smoothly. &nbsp;</p>
 mark significant progress in enhancing our transportation system. This
 development not only promotes accessibility but also supports sustainability,
 ultimately improving the quality of life for residents.</p>
-<p>With the proliferation of train lines across the island, I hope there
-is a reduced reliance on cars. This shift contributes to a greener and
-more efficient urban landscape. I am proud to be a part of the team that
-keeps Singapore moving.</p>
+<p>With extensive train network across the island, I hope there is a reduced
+reliance on cars. This shift contributes to a greener and more efficient
+urban landscape. I am proud to be a part of the team that keeps Singapore
+moving.</p>
 <p><strong>Q: What would you say to someone considering a role in the industry?</strong>
 </p>
 <p>A: The public transport industry is incredibly diverse and fulfilling,
