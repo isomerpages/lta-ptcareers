@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Our Stories/.keep
+      - Our Stories/Optimising Processes and Possibilities.md
       - Our Stories/Steering Their Way to Rewarding Careers in Bus Operations.md
       - Our Stories/Engineering A Smooth Ride.md
       - Our Stories/On Track For Success.md
@@ -10,7 +11,6 @@ collections:
       - Our Stories/From Childhood Fascination to Everyday Discovery.md
       - Our Stories/Motivated by the World and Every Single Smile.md
       - Our Stories/Powering the Future.md
-      - Our Stories/Optimising Processes and Possibilities.md
       - Our Stories/Keeping Our Buses Moving Smoothly.md
       - Our Stories/The Quick Thinker Behind Every Journey.md
       - Our Videos/Keeping Our Trains Running.md
