@@ -9,6 +9,17 @@ third_nav_title: Our Stories
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shafiee_web.png">
 </div>
+<p><strong>Q: Share with us what you do.</strong>
+</p>
+<p>A: As a Systems Engineer, I am responsible for managing the Radio Communication
+Systems on the Downtown Line. I lead a team of Assistant Engineers and
+Technicians to ensure the regular maintenance of our Radio Communication
+Systems, which is essential for the efficient operation of our train services.</p>
+<p>Additionally, I analyse and investigate technical issues within the Radio
+Communication Systems. I lead initiatives focused on system upgrades, and
+as we are currently in the upgrading phase, I actively present and address
+system defects and train faults, as well as troubleshooting to overcome
+these challenges.</p>
 <p><strong>Q: What intrigued you to pursue a career in the Public Transport industry?</strong>
 </p>
 <p>A: I have always admired the efficiency of Singapore’s railway system.
@@ -21,17 +32,6 @@ backend operations and emergency preparedness.</p>
 <p>With a degree in Electrical Electronic Engineering, I possess a strong
 foundation in communications and programming, which has been invaluable
 in my current role in Radio Communications Systems.</p>
-<p><strong>Q: Share with us what you do.</strong>
-</p>
-<p>A: As a Systems Engineer, I am responsible for managing the Radio Communication
-Systems on the Downtown Line. I lead a team of Assistant Engineers and
-Technicians to ensure the regular maintenance of our Radio Communication
-Systems, which is essential for the efficient operation of our train services.</p>
-<p>Additionally, I analyse and investigate technical issues within the Radio
-Communication Systems. I lead initiatives focused on system upgrades, and
-as we are currently in the upgrading phase, I actively present and address
-system defects and train faults, as well as troubleshooting to overcome
-these challenges.</p>
 <p><strong>Q: What are the opportunities that the industry offers to graduates with technical or engineering qualifications?</strong>
 </p>
 <p>A: SBS Transit Rail offers a dynamic career path with numerous growth
@@ -58,14 +58,6 @@ experience for our passengers.</p>
 <p>I also value our supportive work culture. My colleagues and I champion
 teamwork, sharing knowledge and collaborating to resolve technical issues.
 This collaborative environment makes our work both enjoyable and effective!</p>
-<p><strong>Q: Share with us any achievement or memorable moment you have experienced in your work.</strong>
-</p>
-<p>A: One weekend, relatively new to my role, I received a call from the
-radio manager at the Downtown Line’s Operation Control Centre. They needed
-assistance with a radio system fault during normal operational hours. I
-was able to provide step-by-step guidance over the phone and successfully
-rectify the fault. This experience gave me a strong sense of achievement,
-knowing that I helped my team and ensured smooth operations.</p>
 <p><strong>Q: What are the challenges in your role, and how do you overcome them?</strong>
 </p>
 <p>A: Radio communication systems are crucial to train operations. This communication
@@ -77,7 +69,7 @@ as these hours typically fall outside normal operating times.</p>
 <p>For instance, one morning at a particular station, the trains lost communication
 with our Operations Control Centre. We swiftly went to the scene to investigate
 and successfully restored the communications to ensure our operations continued
-to run smoothly. &nbsp;</p>
+to run smoothly.</p>
 <p><strong>Q: As you look at the industry's future, what excites you the most?</strong>
 </p>
 <p>A: The ongoing expansion and development of Singapore’s train network
