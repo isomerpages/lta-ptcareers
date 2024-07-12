@@ -90,9 +90,9 @@ urban landscape. I am proud to be a part of the team that keeps Singapore
 moving.</p>
 <p><strong>Q: What would you say to someone considering a role in the industry?</strong>
 </p>
-<p>A: The public transport industry is incredibly diverse and fulfilling,
-offering a wide range of career opportunities to make a tangible impact
-on communities. Beyond technical tasks, you will also work closely with
-different teams and stakeholders to enhance the commuting experience for
-our passengers. It's not just a job; it's a fulfilling path where you can
-grow personally and professionally while providing for your family.</p>
+<p>A: The public transport industry offers a wide range of career opportunities
+to make a tangible impact on communities. Beyond technical tasks, you will
+also work closely with different teams and stakeholders to enhance the
+commuting experience for our passengers. It's not just a job; it's a fulfilling
+path where you can grow personally and professionally while providing for
+your family.</p>
