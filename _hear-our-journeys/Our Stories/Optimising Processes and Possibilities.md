@@ -10,14 +10,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KX.png">
 </div>
-<p><strong>Q: What intrigued you to pursue a career in the Public Transport industry?</strong>
-</p>
-<p>A: After completing my degree in Aerospace Engineering and an internship
-focused on machine learning and non-destructive testing, I became fascinated
-by the intersection of technology and transportation.</p>
-<p>The potential to harness digital solutions to enhance connectivity and
-mobility within communities inspired me to contribute to this dynamic public
-transport industry.</p>
 <p><strong>Q: Share with us what you do.</strong>
 </p>
 <p>A: I am a Digital Service and Technology (DST) Engineer within the Permanent
@@ -27,7 +19,7 @@ efficiency and performance. I design, implement and manage digital solutions
 that optimise engineering processes and integrate digital technologies
 with existing systems. I also troubleshoot technical issues and develop
 software tools to ensure our tracks are optimal for safe and smooth rides.</p>
-<p><strong>Q: What is P-way?</strong>
+<p><strong>Q: What is 'P-way'?</strong>
 </p>
 <p>A: P-way, the abbreviation of Permanent Way, refers to the finished track
 for a railway.</p>
@@ -36,6 +28,14 @@ tracks to transport construction materials to and from the site; these
 temporary tracks are removed when the work is completed. Thus, Permanent
 Way is used to distinguish the final finished tracks from the temporary
 ones.</p>
+<p><strong>Q: What intrigued you to pursue a career in the Public Transport industry?</strong>
+</p>
+<p>A: After completing my degree in Aerospace Engineering and an internship
+focused on machine learning and non-destructive testing, I became fascinated
+by the intersection of technology and transportation.</p>
+<p>The potential to harness digital solutions to enhance connectivity and
+mobility within communities inspired me to join this dynamic public transport
+industry.</p>
 <p><strong>Q: What are the opportunities that the industry offers to graduates with technical or engineering qualifications?</strong>
 </p>
 <p>A: SBS Transit Rail provides graduates with diverse opportunities to embark
