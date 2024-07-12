@@ -9,7 +9,7 @@ third_nav_title: Our Stories
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shafiee_web.png">
 </div>
-<p><strong>Q: Share with us what you do.</strong>
+<p><strong>Q: Tell us what you do.</strong>
 </p>
 <p>A: As a Systems Engineer, I am responsible for managing the Radio Communication
 Systems on the Downtown Line. I lead a team of Assistant Engineers and
