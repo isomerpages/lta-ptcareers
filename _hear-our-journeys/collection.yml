@@ -2,6 +2,7 @@ collections:
   hear-our-journeys:
     output: true
     order:
+      - Our Stories/Enhancing Bus Efficiencies For Smoother Journeys.md
       - Our Stories/The Importance of Radio Communications.md
       - Our Stories/.keep
       - Our Stories/Optimising Processes and Possibilities.md
