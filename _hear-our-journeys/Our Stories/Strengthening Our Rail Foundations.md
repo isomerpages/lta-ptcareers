@@ -1,6 +1,6 @@
 ---
-title: Optimising Processes and Possibilities
-permalink: /hear-our-journeys/our-stories/optimising-processes-and-possibilities/
+title: Strengthening Our Rail Foundations
+permalink: /hear-our-journeys/our-stories/strengthening-our-rail-foundations/
 description: ""
 third_nav_title: Our Stories
 variant: tiptap

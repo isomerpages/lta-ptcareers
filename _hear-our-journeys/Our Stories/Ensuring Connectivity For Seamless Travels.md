@@ -1,6 +1,6 @@
 ---
-title: The Importance of Radio Communications
-permalink: /the-importance-of-radio-communications/
+title: Ensuring Connectivity For Seamless Travels
+permalink: /ensuring-connectivity-for-seamless-travels/
 variant: tiptap
 description: ""
 third_nav_title: Our Stories
