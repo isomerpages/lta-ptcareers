@@ -2,6 +2,7 @@ collections:
   hear-our-journeys:
     output: true
     order:
+      - Our Stories/Improving Rail Reliability With Data.md
       - Our Stories/Enhancing Bus Efficiencies For Smoother Journeys.md
       - Our Stories/Ensuring Connectivity For Seamless Travels.md
       - Our Stories/.keep
