@@ -54,15 +54,15 @@ sections:
           linktext: Learn more
           url: /why-join-us/
   - infopic:
-      title: Gary Goh, Engineering Supervisor
-      subtitle: Tower Transit Singapore
+      title: Ratna Yanti, Signalling & Communications Maintenance
+      subtitle: SMRT Trains
       id: infopic
-      description: “My job is never boring as I get to handle different tasks daily. I
-        am proud that I play a major role in ensuring that our buses are safe
-        for our passengers.”
+      description: “My work is very dynamic, not limited to only engineering, but also
+        involves communication, planning and management. This makes it
+        challenging and interesting!
       button: view full story
       url: /hear-our-journeys/our-stories/from-childhood-fascination-to-everyday-discovery/
-      image: /images/894-x-503-our-stories-bus-engr.jpg
+      image: /images/Ratna_home_pg.jpg
       alt: Image alt text
   - infopic:
       title: Nur Azimah Binti Mohd Ramlee, Station Manager
