@@ -108,17 +108,6 @@ sections:
       image: /images/Gary_home_pg1.jpg
       alt: Image alt text
       title: Gary Goh, Engineering Supervisor
-  - infopic:
-      subtitle: SBS Transit Ltd
-      id: infopic
-      description: “This role is challenging and requires quick-thinking skills to
-        troubleshoot any unplanned road situations. Every day is a new and
-        enriching experience for me.”
-      button: View full story
-      url: /hear-our-journeys/our-stories/the-quick-thinker-behind-every-journey/
-      image: /images/894-x-503-our-stories-svc-sbst.jpg
-      alt: Image alt text
-      title: Koh Seng Kee, Executive Service Controller
   - textcards:
       title: Highlights
       id: textcards
