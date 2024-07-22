@@ -59,7 +59,7 @@ sections:
       id: infopic
       description: “My work is very dynamic, not limited to only engineering, but also
         involves communication, planning and management. This makes it
-        challenging and interesting!
+        challenging and interesting!"
       button: view full story
       url: /hear-our-journeys/our-stories/from-childhood-fascination-to-everyday-discovery/
       image: /images/Ratna_home_pg.jpg
@@ -87,15 +87,15 @@ sections:
       url: /ensuring-connectivity-for-seamless-travels/
       title: Mohd Shafiee Bin Osman, Engineer, Systems
   - infopic:
-      title: Joey Neo Wan Qi, Senior Engineer, Permanent Way
-      subtitle: SBS Transit Ltd
+      title: Wong Kai Xin, Engineer, Permanent Way
+      subtitle: SBS Transit
       id: infopic
-      description: “If you enjoy the challenge of working in a highly-dynamic
-        engineering environment, a job in the rail industry is one career to
-        consider.”
+      description: '"The potential to harness digital solutions to enhance
+        connectivity and mobility within communities inspired me to join this
+        dynamic public transport industry."'
       button: view full story
-      url: /hear-our-journeys/our-stories/the-round-the-clock-optimist/
-      image: /images/894-x-503-our-stories-pway.jpg
+      url: /hear-our-journeys/our-stories/strengthening-our-rail-foundations/
+      image: /images/KX_home_pg.jpg
       alt: Image alt text
   - infopic:
       subtitle: Go-Ahead Singapore
