@@ -11,7 +11,7 @@ sections:
       title: Behind Every Journey
       subtitle: Be part of the millions of journeys every day, no matter where you are
         in your career
-      background: /images/Public_Transport_Career_Homepage_Banner.jpg
+      background: /images/refresh_banner_2024.png
       button: Find your journey
       url: /careers-and-programmes/professionals/
       key_highlights:
@@ -24,6 +24,7 @@ sections:
         - title: students
           description: ""
           url: /careers-and-programmes/students/
+      variant: center
   - infopic:
       title: About Public Transport Industry
       id: infopic
@@ -53,58 +54,60 @@ sections:
           linktext: Learn more
           url: /why-join-us/
   - infopic:
-      title: Gary Goh, Engineering Supervisor
+      title: Ratna Yanti, Signalling & Communications Maintenance
+      subtitle: SMRT Trains
+      id: infopic
+      description: “My work is very dynamic, not limited to only engineering, but also
+        involves communication, planning and management. This makes it
+        challenging and interesting!"
+      button: view full story
+      url: /hear-our-journeys/our-stories/from-childhood-fascination-to-everyday-discovery/
+      image: /images/Ratna_home_pg.jpg
+      alt: Image alt text
+  - infopic:
+      title: Yew Chin Hoe, Depot Supervisor
+      subtitle: Go-Ahead Singapore
+      id: infopic
+      description: “The broad exposure to different areas of bus operations keeps me
+        motivated at work. The dynamic nature of public transport offers
+        continuous learning."
+      button: view full story
+      url: /enhancing-bus-efficiencies-for-smoother-journeys/
+      image: /images/CH_home_pg.jpg
+      alt: Image alt text
+  - infopic:
+      subtitle: SBS Transit
+      id: infopic
+      description: “The development of our train network promotes accessibility and
+        also supports sustainability. I am proud to be a part of the team that
+        keeps Singapore moving.”
+      button: View Full Story
+      alt: Image alt text
+      image: /images/Shafiee_home_pg.jpg
+      url: /ensuring-connectivity-for-seamless-travels/
+      title: Mohd Shafiee Bin Osman, Engineer, Systems
+  - infopic:
+      title: Wong Kai Xin, Engineer, Permanent Way
+      subtitle: SBS Transit
+      id: infopic
+      description: '"The potential to harness digital solutions to enhance
+        connectivity and mobility within communities inspired me to join this
+        dynamic public transport industry."'
+      button: view full story
+      url: /hear-our-journeys/our-stories/strengthening-our-rail-foundations/
+      image: /images/KX_home_pg.jpg
+      alt: Image alt text
+  - infopic:
       subtitle: Tower Transit Singapore
       id: infopic
       description: “My job is never boring as I get to handle different tasks daily. I
         am proud that I play a major role in ensuring that our buses are safe
         for our passengers.”
       button: view full story
-      url: /hear-our-journeys/our-stories/from-childhood-fascination-to-everyday-discovery/
-      image: /images/894-x-503-our-stories-bus-engr.jpg
+      url: hear-our-journeys/our-stories/from-childhood-fascination-to-everyday-discovery/
+      image: /images/Gary_home_pg1.jpg
       alt: Image alt text
-  - infopic:
-      title: Nur Azimah Binti Mohd Ramlee, Station Manager
-      subtitle: SMRT Trains
-      id: infopic
-      description: “Every day is different and the same – we meet people from diverse
-        array of cultures and we stay dedicated in serving our commuters,
-        everyday.”
-      button: view full story
-      url: /hear-our-journeys/our-stories/motivated-by-the-world-and-every-single-smile/
-      image: /images/894-x-503-our-stories-station-mgr.jpg
-      alt: Image alt text
-  - infopic:
-      subtitle: SMRT Trains
-      id: infopic
-      description: “The most fulfilling part of my job is knowing that I have the
-        ability to influence the future of our Rail Transport System.”
-      button: View Full Story
-      alt: Image alt text
-      image: /images/894-x-503-our-stories-power.jpg
-      url: /hear-our-journeys/our-stories/powering-the-future/
-      title: Kishen Kumar, Manager, Power Plans
-  - infopic:
-      title: Joey Neo Wan Qi, Senior Engineer, Permanent Way
-      subtitle: SBS Transit Ltd
-      id: infopic
-      description: “If you enjoy the challenge of working in a highly-dynamic
-        engineering environment, a job in the rail industry is one career to
-        consider.”
-      button: view full story
-      url: /hear-our-journeys/our-stories/the-round-the-clock-optimist/
-      image: /images/894-x-503-our-stories-pway.jpg
-      alt: Image alt text
-  - infopic:
-      subtitle: Go-Ahead Singapore
-      id: infopic
-      description: “I look forward to the many initiatives planned for our people and
-        infrastructure, especially the new innovative clean energy buses.”
-      button: view full story
-      url: /hear-our-journeys/our-stories/keeping-our-buses-moving-smoothly/
-      image: /images/894-x-503-our-stories-svc-gas_d.jpg
-      alt: Image alt text
-      title: Ho Weipeng, Service Performance Assistant Manager
+      title: Gary Goh, Engineering Supervisor
   - infopic:
       subtitle: SBS Transit Ltd
       id: infopic
