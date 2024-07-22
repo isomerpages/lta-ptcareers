@@ -65,15 +65,15 @@ sections:
       image: /images/Ratna_home_pg.jpg
       alt: Image alt text
   - infopic:
-      title: Nur Azimah Binti Mohd Ramlee, Station Manager
-      subtitle: SMRT Trains
+      title: Yew Chin Hoe, Depot Supervisor
+      subtitle: Go-Ahead Singapore
       id: infopic
-      description: “Every day is different and the same – we meet people from diverse
-        array of cultures and we stay dedicated in serving our commuters,
-        everyday.”
+      description: “The broad exposure to different areas of bus operations keeps me
+        motivated at work. The dynamic nature of public transport offers
+        continuous learning."
       button: view full story
-      url: /hear-our-journeys/our-stories/motivated-by-the-world-and-every-single-smile/
-      image: /images/894-x-503-our-stories-station-mgr.jpg
+      url: /enhancing-bus-efficiencies-for-smoother-journeys/
+      image: /images/CH_home_pg.jpg
       alt: Image alt text
   - infopic:
       subtitle: SMRT Trains
