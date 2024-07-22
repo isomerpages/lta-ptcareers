@@ -76,15 +76,16 @@ sections:
       image: /images/CH_home_pg.jpg
       alt: Image alt text
   - infopic:
-      subtitle: SMRT Trains
+      subtitle: SBS Transit
       id: infopic
-      description: “The most fulfilling part of my job is knowing that I have the
-        ability to influence the future of our Rail Transport System.”
+      description: “The development of our train network promotes accessibility and
+        also supports sustainability. I am proud to be a part of the team that
+        keeps Singapore moving.”
       button: View Full Story
       alt: Image alt text
-      image: /images/894-x-503-our-stories-power.jpg
-      url: /hear-our-journeys/our-stories/powering-the-future/
-      title: Kishen Kumar, Manager, Power Plans
+      image: /images/Shafiee_home_pg.jpg
+      url: /ensuring-connectivity-for-seamless-travels/
+      title: Mohd Shafiee Bin Osman, Engineer, Systems
   - infopic:
       title: Joey Neo Wan Qi, Senior Engineer, Permanent Way
       subtitle: SBS Transit Ltd
