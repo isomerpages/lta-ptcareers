@@ -105,7 +105,7 @@ sections:
         for our passengers.”
       button: view full story
       url: hear-our-journeys/our-stories/from-childhood-fascination-to-everyday-discovery/
-      image: /images/Gary_home_pg.jpg
+      image: /images/Gary_home_pg1.jpg
       alt: Image alt text
       title: Gary Goh, Engineering Supervisor
   - infopic:
