@@ -98,15 +98,16 @@ sections:
       image: /images/KX_home_pg.jpg
       alt: Image alt text
   - infopic:
-      subtitle: Go-Ahead Singapore
+      subtitle: Tower Transit Singapore
       id: infopic
-      description: “I look forward to the many initiatives planned for our people and
-        infrastructure, especially the new innovative clean energy buses.”
+      description: “My job is never boring as I get to handle different tasks daily. I
+        am proud that I play a major role in ensuring that our buses are safe
+        for our passengers.”
       button: view full story
-      url: /hear-our-journeys/our-stories/keeping-our-buses-moving-smoothly/
-      image: /images/894-x-503-our-stories-svc-gas_d.jpg
+      url: hear-our-journeys/our-stories/from-childhood-fascination-to-everyday-discovery/
+      image: /images/Gary_home_pg.jpg
       alt: Image alt text
-      title: Ho Weipeng, Service Performance Assistant Manager
+      title: Gary Goh, Engineering Supervisor
   - infopic:
       subtitle: SBS Transit Ltd
       id: infopic
