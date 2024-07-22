@@ -11,7 +11,7 @@ sections:
       title: Behind Every Journey
       subtitle: Be part of the millions of journeys every day, no matter where you are
         in your career
-      background: /images/Public_Transport_Career_Homepage_Banner.jpg
+      background: /images/refresh_banner_2024.png
       button: Find your journey
       url: /careers-and-programmes/professionals/
       key_highlights:
