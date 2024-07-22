@@ -24,6 +24,7 @@ sections:
         - title: students
           description: ""
           url: /careers-and-programmes/students/
+      variant: center
   - infopic:
       title: About Public Transport Industry
       id: infopic
