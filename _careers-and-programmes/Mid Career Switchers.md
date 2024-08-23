@@ -14,8 +14,10 @@ Examples of CCPs in the public transport sector include those for Bus Technician
 Station Managers, Assistant Station Managers, as well as Customer Service
 Officers.</p>
 <p>Click on the links below to find out more:
-<br><a href="https://conversion.mycareersfuture.gov.sg/Portal/ProgramDetails.aspx?ProgID=P00000172" rel="noopener noreferrer nofollow" target="_blank">CCP for Rail Operations Professionals (SBST)</a> 
-<br><a href="https://conversion.mycareersfuture.gov.sg/portal/ProgramDetails.aspx?ProgID=P00001951" rel="noopener noreferrer nofollow" target="_blank">CCP for Rail Engineers (SMRT)</a> 
-<br><a href="https://conversion.mycareersfuture.gov.sg/Portal/ProgramDetails.aspx?ProgID=P00000171" rel="noopener noreferrer nofollow" target="_blank">CCP for Rail Operations Professionals (SMRT)</a> 
+<br><a href="https://conversion.mycareersfuture.gov.sg/portal/ProgramDetails.aspx?ProgID=P00002752" rel="noopener noreferrer nofollow" target="_blank">CCP for Public Transport Professionals (SBS Transit)</a>
+</p>
+<p><a href="https://conversion.mycareersfuture.gov.sg/portal/ProgramDetails.aspx?ProgID=P00002743" rel="noopener noreferrer nofollow" target="_blank">CCP for Public Transport Professionals (SMRT)</a>
+</p>
+<p><a href="https://conversion.mycareersfuture.gov.sg/portal/ProgramDetails.aspx?ProgID=P00002734" rel="noopener noreferrer nofollow" target="_blank">CCP for Public Transport Professionals (Tower Transit Singapore)</a>
 <br>
 </p>
