@@ -61,7 +61,7 @@ sections:
         involves communication, planning and management. This makes it
         challenging and interesting!"
       button: view full story
-      url: /hear-our-journeys/our-stories/from-childhood-fascination-to-everyday-discovery/
+      url: /improving-rail-reliability-with-data/
       image: /images/Ratna_home_pg.jpg
       alt: Image alt text
   - infopic:
