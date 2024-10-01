@@ -12,11 +12,24 @@ variant: tiptap
 skills conversion to embark on careers in the public transport industry.</p>
 <p>From Bus Technician, Station Manager, Assistant Rail Engineer to Train
 Captain, explore the various roles available under these Place-and-Train
-programmes:
-<br><a href="https://conversion.mycareersfuture.gov.sg/portal/ProgramDetails.aspx?ProgID=P00002752" rel="noopener noreferrer nofollow" target="_blank">CCP for Public Transport Professionals (SBS Transit)</a>
+programmes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://conversion.mycareersfuture.gov.sg/portal/ProgramDetails.aspx?ProgID=P00002782" rel="noopener nofollow" target="_blank">CCP for Public Transport Professionals (Go-Ahead Singapore)</a>
 </p>
+</li>
+<li>
+<p><a href="https://conversion.mycareersfuture.gov.sg/portal/ProgramDetails.aspx?ProgID=P00002752" rel="noopener noreferrer nofollow" target="_blank">CCP for Public Transport Professionals (SBS Transit)</a>
+</p>
+</li>
+<li>
 <p><a href="https://conversion.mycareersfuture.gov.sg/portal/ProgramDetails.aspx?ProgID=P00002743" rel="noopener noreferrer nofollow" target="_blank">CCP for Public Transport Professionals (SMRT)</a>
 </p>
+</li>
+<li>
 <p><a href="https://conversion.mycareersfuture.gov.sg/portal/ProgramDetails.aspx?ProgID=P00002734" rel="noopener noreferrer nofollow" target="_blank">CCP for Public Transport Professionals (Tower Transit Singapore)</a>
 <br>
 </p>
+</li>
+</ul>
+<p></p>
