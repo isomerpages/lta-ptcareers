@@ -20,7 +20,8 @@ variant: markdown
       width: 50%;
       padding: 10px;">
     <img style="width:100%" alt="Image 1" src="/images/ptwa-social_proudtobept.png">
-    <p><a target="_blank" href="https://www.facebook.com/WeKeepYourWorldMoving/posts/186734610301279">Proud to be a PT worker</a></p>
+    <p><a target="_blank" href="https://www.facebook.com/WeKeepYourWorldMoving/posts/186734610301279">Proud to be a PT worker
+</a></p>
  </div>
  <div style="float: left;
     width: 50%;
