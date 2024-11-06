@@ -15,7 +15,7 @@ variant: markdown
       padding: 10px;">
     <img style="width:100%" alt="Image 2" src="/images/Bus_Image.jpg">
     <p><a target="_blank" href="https://www.facebook.com/story.php?story_fbid=863241279317272&amp;id=100068942238678&amp;mibextid=WC7FNe&amp;rdid=bXN9GUPQiNn22E36#">Meet our bus industry workers!</a></p>
-	</div>
+</div>
 <div style="float: left;
       width: 50%;
       padding: 10px;">
