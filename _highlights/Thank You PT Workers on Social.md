@@ -21,8 +21,8 @@ variant: markdown
       padding: 10px;">
     <img style="width:100%" alt="Image 1" src="/images/ptwa-social_proudtobept.png">
     <p><a target="_blank" href="https://www.facebook.com/WeKeepYourWorldMoving/posts/186734610301279">Proud to be a public transport worker</a></p>
-  </div>
-  <div style="float: left;
+ </div>
+ <div style="float: left;
       width: 50%;
       padding: 10px;">
     <img style="width:100%" alt="Image 2" src="/images/workers-on-social2.jpg">
