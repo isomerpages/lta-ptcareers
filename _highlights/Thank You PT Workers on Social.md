@@ -4,9 +4,18 @@ permalink: /highlights/thank-you-pt-workers-on-social/
 description: ""
 variant: markdown
 ---
-<div style="display: flex;
-      flex-wrap: wrap;
-      justify-content: center;">
+<div style="float: left;
+      width: 50%;
+      padding: 10px;">
+    <img style="width:100%" alt="Image 1" src="/images/Rail_Image.jpg">
+    <p><a target="_blank" href="https://www.facebook.com/share/HwYQNdSh62Fm96Xe/?mibextid=WC7FNe">Meet our rail industry workers!</a></p>
+</div>
+<div style="float: left;
+      width: 50%;
+      padding: 10px;">
+    <img style="width:100%" alt="Image 2" src="/images/Bus_Image.jpg">
+    <p><a target="_blank" href="https://www.facebook.com/story.php?story_fbid=863241279317272&amp;id=100068942238678&amp;mibextid=WC7FNe&amp;rdid=bXN9GUPQiNn22E36#">Meet our bus industry workers!</a></p>
+	</div>
 <div style="float: left;
       width: 50%;
       padding: 10px;">
@@ -31,4 +40,4 @@ variant: markdown
     <img style="width:100%" alt="Image 2" src="/images/416x416-appreciation-video-from-ministers.jpg">
     <p><a target="_blank" href="https://www.facebook.com/ongyekung/videos/365582244670921/">Appreciation video from Ministers</a></p>
   </div>
-		</div>
+		
