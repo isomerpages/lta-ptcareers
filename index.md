@@ -5,7 +5,7 @@ description: Public transport is a key enabler of Singapore's economy. Learn
   more about the industry, the roles and the career opportunities available.
 image: /images/behind every journey.png
 permalink: /
-notification: This microsite will be decommissioned from October 16 September
+notification: This website will be decommissioned from October 16 September
   2025. For information on public transport careers, please visit our Public
   Transport Operator websites. Thank you for your interest in the public
   transport sector.
