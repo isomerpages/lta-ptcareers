@@ -7,7 +7,8 @@ image: /images/behind every journey.png
 permalink: /
 notification: This website will be decommissioned from 16 September 2025. For
   information on public transport careers, please visit our Public Transport
-  Operator websites. Thank you for your interest in the public transport sector.
+  Operators' websites. Thank you for your interest in the public transport
+  sector.
 sections:
   - hero:
       title: Behind Every Journey
